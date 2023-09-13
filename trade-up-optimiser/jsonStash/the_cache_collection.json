@@ -1,0 +1,159 @@
+{
+  "name": "The Cache Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_cache_collection.png?id=fc5a742efad6037f638b3d6b60879f87",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "FAMAS | Styx",
+        "desc": "It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73fyhB4Nm3hr-YnOL4P6iDqW1Q5cRiteXI8oTht1i1uRQ5fTygLYGSdlA9M1qB-lLoxOruhJW-vcmbmHVquHIi4CnclhW-hx1IabZxxavJY2WIqV0/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | Cerberus",
+        "desc": "It has been custom painted with a depiction of Cerberus, the mythical three headed dog that guards the underworld.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.9": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczLZAJB6c60hpWYqPD1P7LdqWdY781lteXA54vwxgPi-kFpYz_6IYPGdABtMwrR-lG6we66h8DvvZnMwCE2vSQh53_flxepwUYbzsuebyo/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MAC-10 | Nuclear Garden",
+        "desc": "It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73fyhB4Nm3hr-YnOL4P6iCqWZQ65QhteXI8oTht1i1uRQ5fW31I9SWcAM-Z13V-FPrxOzrjZS4u86fyHBm6HVx53razEHlhx5FbudxxavJTauCii8/512fx384f"
+        }
+      },
+      {
+        "name": "MP9 | Setting Sun",
+        "desc": "It has been painted with a hydrographic pattern of nuclear hazards symbols.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FA957P3dcjFH7c6JhIGfg_LmPenum3sI18l4jeHVyoD0mlOx5RdpNWuhJo_GcwM8aV6Fq1Xtx-280ZC8vJvInXNjvSN3tniIlxG3iR9SLrs4jZHTrNs/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Reactor",
+        "desc": "It has been painted with a pattern of nuclear hazard symbols using metallic paints.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-bluPgNqnfx1RW5MpygdbN_Iv9nGu4qgE7NnfzJdOcc1I8aFvQr1G6lersh5e57siam3tjviQlt32IzUDkgEseZrFmm7XAHtr3Zeyq/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Bone Machine",
+        "desc": "It has been chromed then overlayed with a semi transparent hydrographic pattern of nuclear skulls and bones.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTjNX79CzlZK0hPzhP7fCx1RJ5ZQh273--YXygECLpxIuNDztI4eTJw48aF6D-lbqwrvp0ZPvtcvMn3BjvCAntnbbnx3l00pLZrY-hOveFwvEhPd5Xg/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Toxic",
+        "desc": "It has been painted with a garish hydrographic pattern of nuclear skulls and bones.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszGZD5O6d2kq5OAgvv4IO7ugm5Ssfp9g-7J4bP5iUazrl04a2qnI9LAdlU_YQyCqVTokLvmh5PtuM6bzHFi6XEltHeJykDhgkxNcKUx0nqScxNZ/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Negev | Nuclear Waste",
+        "desc": "It has been painted with a hydrographic pattern of nuclear hazards symbols.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFfwOP3fyhB4Nm3hr-bluPgNqnfxVRf7cJ0nNbN_Iv9nGu4qgE7NnfxcILGJg84N1GB81W9x-m7gcW-vpTAyHBmunVw7HzYnxG0hkxEPLBpm7XAHt91_hoG/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Hot Shot",
+        "desc": "It has been painted solid colors in light grey and hot green.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N09ukkZm0meL3P77QhFRe-sR_jez-84XjjWunrgU5PQavfdHNNmliMBqHr0-_l-fm1JK17szIyHVnu3Eh43zVmkDhgRFParFnhfOYT16aU6EdHqWFGDOO5z24PALK/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Chemical Green",
+        "desc": "It has been painted solid colors in grey and garish green.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.9": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwPz3di9H9eO4gYOHkvbmDLzDk25f18d4kObPyoD8j1yglB89IT6mOoaScFM8ZArRrAC9xbjqhcLtv5XMyXFiuiQg4S3VzRyxiBBPPbNpjfGACQLJWPZw2f0/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Fallout Warning",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fyhJ6c-ihombksj5MqnemWVu-8Ik37r--YXygECLpxIuNDztLYOcewBvNAqErlfqxe3vjcK5u5qfzXpi7yBx4nzfmhXjg0tEbLZogeveFwuJwsn0rA/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Contamination",
+        "desc": "It has been painted with a hydrographic pattern of nuclear skulls and bones.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.83": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszGZD5O6d2kq5OAgvv4IO_uhjkEuPp9g-7J4bP5iUazrl1kYDv0d4TAJ1BoYQzWrAW-lOi7gp687sjJwXNmuyEjsX7UlkSzh0xKcKUx0ixxm1ff/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Radiation Hazard",
+        "desc": "It has been spray-painted with radiological warning hazard patterns.",
+        "lore": "This item has no Lore",
+        "date_added": "8 August 2014",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P3dejhR-M6_hIW0mOX1PbzUqWpE7_p9g-7J4bP5iUazrl1oYGn6JYWdIFI7M1GF_1C2x-zn0ZO9u8zLzndkvid3tnaOnRe3hkxPcKUx0qBdIrwT/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": []
+  }
+}

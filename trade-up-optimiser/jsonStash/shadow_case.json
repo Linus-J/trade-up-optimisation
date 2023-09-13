@@ -1,0 +1,337 @@
+{
+  "name": "Shadow Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FF4u1qubIW4Su4mzxYHbzqGtZ-KGlz8EuJcg3rnE9NiijVe3_UY-Zzr2JJjVLFEEeiQRtg/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Shadow Daggers | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOwm5KOhOPLMbTDk2pd18l4jeHVyoD0mlOx5UttNm_6coLHIVA4NViDrle-l-fvjMe87pvOy3A2snJx5H2Plh210klSLrs4qYSsVe4/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Case Hardened",
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO5nYyOk8j4OrzZglRd6dd2j6fC94_33wG1-UBoN2_1J4SQIAM4YlnYqwPtl--7hMXvtMibnHUxsikh-z-DyF2FcTRg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OO7kZODqOP1PYTdn2xZ_Pp9i_vG8ML33lbn8kM_YG_2JtWXIFU_MljX_gLqw-29hsXttZ_ImyRqsicit3uPgVXp1v1GlVXu/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Blue Steel",
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eO0mJWOk8j4OrzZglRd6dd2j6fEpY6njVewrhY_YD-hJ4aTdFVrMgmG_wO8lefsjJTu6sjNnSAwvCcm-z-DyLpT_9_7/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | ★ (Vanilla)",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_push.13f409f23e653107c90711e5ab258b52b187ff6a.png"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Forest DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOykJCKg8j4OrzZglRd6dd2j6fAoNSn2VayrkNvN2DyJIWRIAE2M1iBqwe_lL--gJbv6pjMz3Rnv3Ih-z-DyE2k6FdU/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD7eOwlYSOqPv9NLPFqWdQ-sJ0xO-Wpois2w21-EBpazjyJoDDJFRsZgrZ-QK3l-bo15_uu5WYzyFksnY8pSGKbPKwSf4/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Slaughter",
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.01-0.26": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD4eOskYKZlsj4OrzZglRd6dd2j6fApdX03ley-EdkMWjzJtCdclM2ZlrS_ALtxu-7hZW5uJmczHJhvSAh-z-DyBAi1xKI/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Stained",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJD_eOwm5KIkvPLP7LWnn9u5MRjjeyPp4_wiVKxqUJsZzilcdSRclA3MwnUqVbvxr28gcK5tZ2bmnFl6SN2sWGdwUJ8mvnVKQ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOylZCbm_LLP7LWnn9u5MRjjeyPp4qii1Cx_kY9YWugIdXBcgU2MwuFqFK2xO3s05O_tZqYwCQwsiIn52GdwULIb8P_jA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Urban Masked",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR_OOilZCOqOLmMbrfqWdY781lteXA54vwxlbg_0BvZmDxLITHcFVsMl_VqVPtkunpgMfqtM7AmHJj7yRw5yuLy0epwUYba3Jf2fM/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Crimson Web",
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "lore": "Be careful where you walk, you never know where the web is spread",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJK9eOhkYKYqPv9NLPFqWdQ-sJ0xO3HotisilHi-0NrMmGncobAJg5rNF3X-AS6w-_qhJS_ucifziE16Cg8pSGKfk8lv9U/512fx384f"
+        }
+      },
+      {
+        "name": "★ Shadow Daggers | Night",
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfw-bbeQJR4-O4nYeDg8j4OrzZglRd6dd2j6eX94qhi1ey-xFoMGn2INfBcw9sNArUrlLqkObngcXt6Zifm3AyuSAg-z-DyDWixcck/512fx384f"
+        }
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "USP-S | Kill Confirmed",
+        "desc": "It has been custom painted with the image of a bullet shattering a skull.",
+        "lore": "2 in the chest, 1 in the head",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8j_OrfdqWhe5sN4mOTE8bP5gVO8vywwMiukcZjEcVc5M1CG-1jtyLi9jJW97pzBmnM27nQlsSvfnkGzhU1OPeY8h6CeVxzAUEsa6pHf/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Golden Coil",
+        "desc": "It has been painted with a hydrographic of an attacking snake.",
+        "lore": "The viper can strike from anywhere",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITCmGpa7cd4nuz-8oP5jGu4ohQ0JwavdcTCJxg7ZlyBqQS5xrvuhZK46M-fyiNgsid053_dzRe_hx9Pbec6jPKaH1ueGeUXSzRAor56/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Frontside Misty",
+        "desc": "It has been painted in vibrant arctic colors.",
+        "lore": "I like to work in the snow... it always leaves a pretty picture - Javier Alviso, Fist of the Phoenix",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.02-0.87": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV08u_mpSOhcjnI7TDglRd4cJ5ntbN9J7yjRrj80Y9Y2GicdXBew84NQuGrAK4l-3nhpG_6smaznFlsyd343_czhPmn1gSOaDw15cN/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Big Iron",
+        "desc": "It has been custom painted with a yellow and orange hydrographic then slightly distressed.",
+        "lore": "A win with an asterisk is still a win - Rona Sabri, Rising Star",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.64": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJgIWIn_n9MLrdn39I18l4jeHVyoD0mlOx5UI9Y2z0dYeRIVc_aFmDr1C8x-zm0Ja6vpzOmiA2siYi7HjZmxHlgRtSLrs4lKhxtCY/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | Flux",
+        "desc": "It has been painted with purple and silver metallic paints.",
+        "lore": "A plan is a list of things that don't happen",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.9": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf1OD3dm5R642Jkoyej8jkJqnBmm5u5Mx2gv3--Y3nj1H6_RY4Z2mmJYaRdAQ7MlHW-lbrxrq5gMPpup3KznEyuyl25iuMyhO0hQYMMLKGBWhDwQ/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "P250 | Wingshot",
+        "desc": "It has been custom painted with a vibrant hydrographic.",
+        "lore": "Sometimes a subtle nudge is all it takes to get what you want - Franz Kriegeld, Phoenix Tactician",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.9": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszYI2gS09-klYOAhP_7J4Tdn2xZ_Pp9i_vG8MKg2wy1-EA-MWGnI9fDeg86N1HW_1O7xr3sjMC6tZTIz3o2uyIntiuJgVXp1jDnul40/512fx384f"
+        }
+      },
+      {
+        "name": "M249 | Nebula Crusader",
+        "desc": "It has been custom painted to look like a classic arcade cabinet.",
+        "lore": "You can use it, but you better put up a quarter first",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhnwMzFI2kb09KzlpWHlsj3Ia7Cl29U-vp9g-7J4bP5iUazrl1qYz_1JNWcJw48YVvV_VTrwrvs05O5u5mdm3diuyMgsH2PnUPihktLcKUx0suZwC4C/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Special Delivery",
+        "desc": "It has been -REDACTED-",
+        "lore": "If I do what you want, will you let me go? - The Phoenix and The Storyteller Part 2",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.62": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJgJB4N2lh4mNnvLwDLfYkWNF18lwmO7Eu96m2Va1_UJrZmigJo-SdAQ7aQqG81fswrru0cS57cjPnCExuiNw7HrD30vgmi9Wyhc/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | Stone Cold",
+        "desc": "It has been highlighted with metallic blue paint. The stock and magazine bare its designer's mark.",
+        "lore": "Eventually you need to step outside of your mentor's shadow",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.9": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczPYgJF7dC_mL-FnvD8J6zYmGxu5Mx2gv3--Y3nj1H6qRBrYj-hJNSccwY8N1rS-VW2l-3mhZe57pqdnHcy7HZ243_VnRzigQYMMLLI5LosnQ/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Glock-18 | Wraiths",
+        "desc": "It has lost souls custom painted on the slide.",
+        "lore": "First it pierces the shroud, then it pierces the shadow",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf1OD3djFN79fnzL-chfbgO6LCqWdY781lteXA54vwxgy3rUc9MTjxJNKUewVvYF7U_AO9xua-hsK8uMzPnyc2uXYk43jfm0apwUYbzF_ISHM/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Cobalt Core",
+        "desc": "It has been custom painted with a futuristic graphic design.",
+        "lore": "Keep him safe, Carmen - The Valkyrie and The Paramour Part 1",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhjxszFcDoV09GvhoOOmfLLP7LWnn9u5MRjjeyPoo_x2FGw80o4MW6id9XGdgJqYlrY8we3l-_qh5_pvMzOzCRnvCQhsGGdwUIwsOIRxA/512fx384f"
+        }
+      },
+      {
+        "name": "Dual Berettas | Dualing Dragons",
+        "desc": "It has dragons laser-etched on the slide and barrel.",
+        "lore": "Marian was always cooler than Sylvia",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0Ob3dShD4N6zhpKOg-P1DL_Dl2xe5tZOhuDG_ZjKhFWmrBZyYW73JoCSdlVsN1rT_QW_k7_q08S66cnAn3I3syB35X-MnxayhhgaZ_sv26LRA9KePQ/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Scumbria",
+        "desc": "It has been subtly painted with metallic paints.",
+        "lore": "Let's not be hasty: there may be another way to get Valeria's attention... - A Father's Love Part 3",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLZTiVPvYznwL-YlOL5ManYl1Rd4cJ5ntbN9J7yjRq28xZrajvwd4KWewc5aVzR_1Dqxubm0MLo6Z7PySYx63F3s3iLyxThn1gSOSLdB7yD/512fx384f"
+        }
+      },
+      {
+        "name": "FAMAS | Survivor Z",
+        "desc": "It has been stenciled using masking tape then distressed.",
+        "lore": "What's red and white and fires full auto?",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0Ob3dzxP7c-JmIWFg_bLP7LWnn9u5MRjjeyPoo333QTsqkdsZDz2ItfHdwI_NQmF-1O5lLjq08W6uMvJwCRl63Ui7WGdwUJj4iqdBQ/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Green Marine",
+        "desc": "It has been given a camouflage pattern with metallic paint.",
+        "lore": "Listen up people... Izaki and Cocinero may be AWOL, but our mission remains the same: we're saving Alex Kincaide - Felix Riley, Commanding Officer",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PTbTi5B7c7kxL-bkvb3NrbQnW5DuJZOhuDG_ZjKhFWmrBZyY2_yco_EIQRoN1iB-lW-l-i51sW-tZuazXdi6SArsyrfyhS-iU5Ebfsv26Is65f-Ng/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Rangeen",
+        "desc": "It has been custom painted with an Ancient Egyptian motif.",
+        "lore": "Can you stand against it's wrathful gaze?",
+        "date_added": "17 September 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJlYyOnP_tMoTVg2Ru5Mx2gv3--Y3nj1H6_EJrYGDzJNeTIAE7Mg2F-FS-kOvqhJ-7uJXKmiAyuXMi53_ZzRyyhAYMMLKzO6s4bw/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

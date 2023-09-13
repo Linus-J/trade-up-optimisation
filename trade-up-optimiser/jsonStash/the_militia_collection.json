@@ -1,0 +1,139 @@
+{
+  "name": "The Militia Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_militia_collection.png?id=df9dd023963e1b740299553752a5fda2",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "SCAR-20 | Splash Jam",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PvRTjVX4sizhr-Jm_buNoTBn2Va18l4jeHVyoD0mlOx5RFrMj_2cdPBdFRrYQvXrli7lL3vhMO-6cnAyHRrviF2tH_dmkbk10tSLrs4Rs_HOBY/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "M4A4 | Modern Hunter",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9Wi3Qe2rhE_N2umcILHIFc2MFzT-FO2wrjsgMW56JzAzntiuHRw7CvD30vgEq_zC2A/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Nova | Blaze Orange",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JloyKjfLLPKnQmGxU18l4jeHVyoD0mlOx5UA9MmHyJoaWdw49ZlvZqwS9x-_ojZHqup_MwHVl7nV34y3azhThgx1SLrs46IJp410/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Modern Hunter",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9ykjQLj_kY4ajv3JtKUdw86aVvXrFe-k7-7gp_pvMvPy3tm7nYqsS3D30vg8ImzJHM/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Blaze Orange",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PvRTjVX4sizhr-Jm_buNoTehGpf78BOhuDG_ZjKhFWmrBZyNzylJ4eScwZrYFyC_1a9yezm1JS9v5WfnyFk6SN3tCuPnEOziE1JPfsv26J7h9Wihw/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Modern Hunter",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3eShM-Nmkq42Ek_LmPYTdn2xZ_Pp9i_vG8MKl3Azt-kJrZTulJISddlRvZQ7Y-lG8kuy8hpS4uJiamyY2vyBz7SzbgVXp1lpTPVT2/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Modern Hunter",
+        "desc": "It has been painted using a photographic hunting camo hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszAZDNW6c6JmY-PkuX6DLfYkWNF18lwmO7Eu9iiig3lrhJrZzz7JtCTJwY6YAqDrFPqwe28hJe77sjPyyM2uCUr5XbD30vgvPMstOw/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P2000 | Grassland Leaves",
+        "desc": "It has been spray-painted using leaves as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zbYQJO6d2gkZO0kOX1IKjdl2VV18l4jeHVyoD0mlOx5RJra2H2cYKRe1M-aF_R8gO7wu6-gMC06ZmbznsyuSAr5n6LnhWz0kpSLrs4bVNWL84/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "MAC-10 | Tornado",
+        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwPz3ZTJQ4t2ym7-HnvD8J4Tdl3lW7Ysi0rCWpo2si1Xs_RZsYm7wLI_HJ1I9ZQnWqFDtyei-h8S6uZXMwXtipGB8st4JXvrt/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Forest Leaves",
+        "desc": "It has been spray-painted using leaves as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlfwOP3fThD-tmlq4yCkP_gDLfQhGxUpsZ02OiWot_x3wC3-0ZsMGj7co-cJldvMFvZrlXsx-nvjZG07c-dwHt9-n51GC-ZbRg/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Grassland",
+        "desc": "It has individual parts spray-painted solid colors in a grassland color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07ODHTjpQ7c-lmIGFk8j4OrzZglRd6dd2j6eVpN7w2Ayy_hVtammndoeQJwA_YFCF-1jtx7u-hZG5vs-bmCc3uygi-z-DyOLCXy9u/512fx384f"
+        }
+      }
+    ]
+  }
+}

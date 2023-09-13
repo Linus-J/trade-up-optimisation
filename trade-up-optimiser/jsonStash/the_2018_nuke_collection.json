@@ -1,0 +1,216 @@
+{
+  "name": "The 2018 Nuke Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2018_nuke_collection.png?id=86a16ac6b531917bd4a31a18dede4bda",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "M4A1-S | Control Panel",
+        "desc": "It has been hand painted with colorful dials and switches atop a blue base.",
+        "lore": "\"Is this line secure?\"",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOxh7-Gw_alIITehm5D6dF-mNbN_Iv9nGu4qgE7NnfycYSQdQc_Yg3V8lm6wL-7hZC9v8_NnHBlsnQn5CvfnBzj1x5FP-U6m7XAHoDuEUTn/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Remote Control",
+        "desc": "It has been hand painted with colorful dials and switches atop a blue base.",
+        "lore": "Don't touch that dial",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhnwMzcdD4b09m4go-SqPv9NLPFqWdQ-sJ0xLmXrY6ti1bgrhdsNW3zIoKTcAI2Y1iCrFPtl-3r0MXvuM7KwSZr6CI8pSGK7hbAQJE/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "MAG-7 | Core Breach",
+        "desc": "An orange pattern of radioactive symbols has been applied over a black base.",
+        "lore": "Safety protocols have failed",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszGZD5O6d2kq4iEg_jmMrXWk1Rd4cJ5ntbN9J7yjRrn_kBqZG70J9SddwY_NwnQ_lTvlea8gJ6_tJqazyRnsnZx7XvVnxGyn1gSOTsT04mg/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Random Access",
+        "desc": "A red circuit board pattern has been applied over a black base.",
+        "lore": "The journey is random; the result is not",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PDBYz5X5ci0m4GZk8j7IbrfkW5u5Mx2gv3--Y3nj1H6rxJlNW7wJILDdg5oaA7Q-ALqkurqh8Tqu5rPyHZmuHYqsyqOmUfkgwYMMLK3Ecp8JA/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Nuclear Garden",
+        "desc": "The slide features a toxic, neon green pattern.",
+        "lore": "A nuclear fission product",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73fyhB4Nm3hr-YnOL4P6jukXlU7ctOhuDG_ZjKhFWmrBZyYG6gJ4GTd1A3Y1CB-gC-wey7h56_752fmHU1vnYm5XaLm0PmiE1EbPsv26InNt9zoA/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P250 | Exchanger",
+        "desc": "A hydrographic pattern of interweaving pipes has been applied.",
+        "lore": "\"My life for yours\"",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszMZD5W_-O0mJWOqPv9NLPFqWdQ-sJ0xL7Eptym3lDmqEJoZWD0JI6RcFVoNQzRr1XsxevtjMPpuZnByXVrvXM8pSGK5r7ZWQI/512fx384f"
+        }
+      },
+      {
+        "name": "MP5-SD | Co-Processor",
+        "desc": "A blue circuit board pattern been applied.",
+        "lore": "Silently supplementing",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf0v73cjRQ78m_gIKEluXwDLrAg2pu5Mx2gv3--Y3nj1H6-UNpNmiid4fHd1RoMwqGq1nowerrjMXvvJWbzXA363YhsHuMy0HjgwYMMLLOu2TOBA/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Facility Negative",
+        "desc": "A blue and yellow hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "The opposite of a containment structure",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FA957PHEZDhS_tW4gL-KhuL1DLfYkWNF18lwmO7Eu9-gjgziqUA4MmnydYWUdwU3NV2B_1i8yOvn1p-6v5jPn3Rg7iEk4nrD30vggjTcF3I/512fx384f"
+        }
+      },
+      {
+        "name": "AWP | Acheron",
+        "desc": "A multicolored hydrographic pattern has been applied.",
+        "lore": "A weapon of woe",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.83": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957P3dcjFH7c6Jh4uem_vnDKnUkmld_cBOhuDG_ZjKhFWmrBZyZWnyddeXcVA3aF6D_lm-x-rv05K_tcjJzCRhuiRx4C2JmEPm10lIZ_sv26J0jS4Vrw/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Negev | Bulkhead",
+        "desc": "A hydrographic pattern of interweaving pipes has been applied.",
+        "lore": "Hold strong",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3dShB-M-JjYWHm_jjDLfYkWNF18lwmO7Eu9Xx0Qfn_kBuZjj3dYCcdFNtZwvSrwe5weq61pfouM_KyHNh6Shx7XjD30vgEwelr1w/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Motherboard",
+        "desc": "A green and white circuit board pattern has been applied.",
+        "lore": "Stay connected",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PDBYz5X5ci0m4GZk8jzIb7UmFRd4cJ5ntbN9J7yjRrkrxVqZGH0JYPBcAQ7Z1HS8gW2wOm8h8O0tZjOzHpks3Yi5i6JmR3in1gSOTaCjw8y/512fx384f"
+        }
+      },
+      {
+        "name": "M4A4 | Mainframe",
+        "desc": "A black and white circuit board pattern has been applied.",
+        "lore": "At the heart of it all",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szLeC9B-dWilo-KhfPLILLdgG5D18l4jeHVyoD0mlOx5UQ9YDv7IoacdABvZl-CqQO2wOzr1JTvv5Wan3YxuiQm7CmJmhG100lSLrs4MXikTMk/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | Cold Fusion",
+        "desc": "A toxic, pale blue hydrographic pattern has been applied.",
+        "lore": "Hypotheses are never proven",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.83": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJM-d-6kYGZqOT_JrfdhVRQ-dBwteXI8oTht1i1uRQ5fW6iLdCddg85MF2F-1a6yeu8h8Lv6J3AnCFhuXRz5n_azUa00hhKPeZxxavJ-8H9S2k/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Nova | Mandrel",
+        "desc": "A grayscale hydrographic pattern of interweaving pipes has been applied.",
+        "lore": "Shaping rounds with each shot",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhoyszMZD5W_-OxhoWSqPv9NLPFqWdQ-sJ0xLzF9NX02wXmqhY4Mjz7LI6QJFA8NFyErwK6wubo08O6vZmanHY27yM8pSGKdBP_UDI/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Coolant",
+        "desc": "The slide features a teal hydrographic pattern of interweaving pipes.",
+        "lore": "A handheld heat rejection device",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09ijl5SYqPDmNr7fqWdY781lteXA54vwxgLs_BBoMj2iI9eVewI2ZlqFrwO7k-rn1sTq6p6cmyMwvChz7SvaykGpwUYbdF1haSI/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Facility Draft",
+        "desc": "It has been covered in a red hydrographic pattern resembling a nuclear power plant.",
+        "lore": "Creating energy from atoms",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszKfShH_M6_mpS0hfLwDLfYkWNF18lwmO7Eu43zjgGy8hFsa230IIeWIwc5ZVGF8le9x7q51p_ttZ-dyCc3vSd05irD30vg8bZaKmQ/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Facility Sketch",
+        "desc": "A grayscale hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "\"Your point of entry is the ventilation system\"",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czFX6cyknY6fqOD8Oq_UqWdY781lteXA54vwxgG18xE-Zm7yJdDAIQc5ZFDY_lXoyOy90MfutMzInCExuiUms3bczUGpwUYbVtpyyys/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Facility Dark",
+        "desc": "A blue hydrographic pattern resembling a nuclear power plant has been applied.",
+        "lore": "Cut the lights",
+        "date_added": "1 September 2018",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3czFX6cyknY6fqPX4Jr7Dk29u5Mx2gv3--Y3nj1H6-hVuNm2gJ47De1A3NF-F-wW2wOu-0MS57cvAwCFnsylx4CmLmxyygAYMMLL8emNMUA/512fx384f"
+        }
+      }
+    ]
+  }
+}

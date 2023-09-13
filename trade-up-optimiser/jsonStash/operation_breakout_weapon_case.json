@@ -1,0 +1,315 @@
+{
+  "name": "Operation Breakout Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFMu1aPMI24auITjxteJwPXxY72AkGgIvZAniLjHpon2jlbl-kpvNjz3JJjVLFG9rl1YLQ/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Butterfly Knife | Stained",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GaqPH7IbjUklRd4cJ5ntbN9J7yjRrlrkZuYWz6co7HJgBsYgvS_lPtlLq9h8K87ZXOwCdq7HMj4i3azhe0n1gSOS5_6hS1/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Case Hardened",
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GaqPj9P77VqWdY781lteXA54vwxlDh-BZkYzv0JIDAdVI5NwmD8wW8w7rtg5O5tZicmHMysyUrsC7alkepwUYbj35ccSk/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq5ObqPrxILPugmpf18l4jeHVyoD0mlOx5Uo_YGmmd9OQIFNsYlDT_1foxe7p0JPvucuYzHQ2vXYm5XrbyRWwhB9SLrs41jxCA9c/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Urban Masked",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq5ObqOP1I77ug3lT6ctOhuDG_ZjKhFWmrBZyNzihIIXDdg5sNVqFqFPtyOnsgcW1vM_MzXph7CIg5yqMzhyy0k0ePPsv26IotkEDow/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | ★ (Vanilla)",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_butterfly.794147e84a4e9426202d45145910cbb007797ce5.png"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPH7Ib7CglRT59d0i-X--YXygECLpxIuNDztco6UdQI2YgzRr1S9k-jmjJe17ZWYyHNgvilw5XjYzBew1RBEbOw9hOveFwsNLW2Vcg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Crimson Web",
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "lore": "Be careful where you walk, you never know where the web is spread",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqODxMajummJW4NFOhujT8om70FHnqkBqZWGiLICSelc6Mg3V_AO8x-nq1pC86JqcmnQyvSUk7X3azgv3309LA7AIOA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Slaughter",
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.01-0.26": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GGqO3xManQqWdY781lteXA54vwxgyy_hduaz_7do6TcgFqaVvQ_1jtxbq5g5e07p7AwCdh7HEn4H6PzRGpwUYb-q86lXo/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Night",
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq5OEqPn9NLPFqWdY781lteXA54vwxg2y-UZoZzrwIY6TdVc7ZViG-wW-kOu6gZK66JzJnXFm6CRwt3zfnxepwUYb2Pp00lU/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Blue Steel",
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GaqPX4Jr7VqWdY781lteXA54vwxg3i8kZtazqmI4CVdgY6NV_S-li7kLjngJXqtZ2dn3VmsiJ34nfVlkOpwUYb7EhgLjQ/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq5ObqPP1I6vdk1Rd4cJ5ntbN9J7yjRri-kJsMmDyco6Ve1U3aF7W81fokObo0Z-87pqcmHpr7yAh4niJn0Hhn1gSOTpeEaNS/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Forest DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4iSqPPwI7rFqWdY781lteXA54vwxgKx80RoN2miItLHd1I_ZV7YqVLsxLzmjMW_vJ6bn3VlsiMl4HbeyUCpwUYb-w4Gnoo/512fx384f"
+        }
+      },
+      {
+        "name": "★ Butterfly Knife | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GKqPH1N77ummJW4NFOhujT8om7igW1qUY6MWqmcIadcw47MFrW_FK9xbzpgZ607Z7PzSAxuXYg53-Llwv330-D9XTwcQ/512fx384f"
+        }
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A1-S | Cyrex",
+        "desc": "It has been custom painted with a high-tech design in black, white, and red.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO1gb-Gw_alIITSj3lU8Pp9g-7J4bP5iUazrl1tZ22hIIaQcVNsZluC_gC6xrjnhJS06c-bySdruih27Srfl0Oy0xEfcKUx0knZQYH9/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Asiimov",
+        "desc": "It has been custom painted with a sci-fi design.",
+        "lore": "Anyone can predict the future... a visionary shapes it",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.92": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAR17OORIXBD_9W_mY-dqPv9NLPFqWdQ-sJ0xLnC9Nvz31K3-0BuMGD7d4PGIQM-ZwuDrgS3w7zshsO5tJ7PmHoysig8pSGKpkWB0BI/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Desert Eagle | Conspiracy",
+        "desc": "It has been painted with dark, metallic paint and pale yellow accents.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.3": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PDdTjlH7du6kb-KguXxJqjummJW4NFOhujT8om731K1_EVsZm6gdoaQJARtMArY-FjslOrrjcC9vp2YnHdnuicj4Cvdygv3308GE_1AfA/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Water Elemental",
+        "desc": "It has been custom painted with the image of a creature made of water in a graphic style.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3djFN79f7mImagvLnML7fglRd4cJ5ntbN9J7yjRrl_kI5amz3cdKRI1NoY1CDqQK7xLrv1se47pnKmHU3syYm4SnemUTkn1gSOYPIEaei/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Fowl Play",
+        "desc": "It has been painted with a pattern of falling feathers.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxT04nhq4aOluP8NqnCqWdY781lteXA54vwxlW18kduNWv7cIPDJg44aV7U-QO7xby-hcW_vZrOyXE3snIk5HramhGpwUYbC9vqejU/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Nova | Koi",
+        "desc": "It has been custom painted with variegated koi scales.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.3": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszGfitD09e5nb-HnvD8J4Tdl3lW7Ysj0uqS84ml21Lj-EU-Z2GncdOUclM_NFDYr1a5kL3vh5e_vsmamyNlpGB8skdEpA34/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Supernova",
+        "desc": "It has been painted with a hydrographic in a cosmic pattern with concentric circles.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhjxszKeClW6c6lg4WOg8j4OrzZglRd6dd2j6eZpo_x3Azt_Us4ZGD3JYTAclVoY1rT-QO2lO_ng5a-6svLzntj63Qm-z-DyIPWN4xl/512fx384f"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Tigris",
+        "desc": "It has been custom painted with high-gloss paint in a tiger stripe motif.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0Ob3cmoX7ZGinYeOhcj4OrzZglRd6dd2j6fDotmhigG1_EA_az_xdoSVdQ86Yw2C-lW4lLi718K478ydnHJnvyEh-z-DyLbrTs61/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Osiris",
+        "desc": "It has been custom painted with a high-tech design in black, white, and amber.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49L7m5OChf7nDLfYkWNF18lwmO7Eu96j0VHk-BZtMj32LY7HdQBvNQrY8lW5weq8gcC4tMnOy3cx73InsyzD30vgnRlvh20/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P2000 | Ivory",
+        "desc": "It has faux ivory parts.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvozmxL-CgfjmKoTdn2xZ_Pp9i_vG8MKniQDjqUJoMWz6d9OSewA3ZF7Z_1ntlO_s1sS6vJvIznNnsnYl4n7cgVXp1hW8xnMi/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Urban Hazard",
+        "desc": "It has been custom painted with urban camo and orange accents.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAR17P7YJnBB49G7lY6PkuXLP7LWnn9u5MRjjeyPp9qljAey-URqZjr7J9CSd1NvNQmD_wDslei605K9tJqcmHAwuCAq7GGdwUJMw04E0g/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Labyrinth",
+        "desc": "It has been painted with subtle orange linework.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3fTRM6c-Jm5KKmfDxDLfYkWNF18lwmO7Eu4il2ACxqkBkamvwItOTJFc7NQnSrFG7xOu-15Puv5rLyiA37CMksX7D30vgPsEAAE0/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Abyss",
+        "desc": "It has been painted with a hydrographic in an oceanic pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0uL3fThU5d2inIGFqPv9NLPFqWdQ-sJ0xLnFpY_w3AbhqUZvZG31IITBclI_NwqGrlHtwbu8g5W46c_BzHVj7HI8pSGKxJE1QGE/512fx384f"
+        }
+      },
+      {
+        "name": "Negev | Desert-Strike",
+        "desc": "It has been custom painted with a high-tech design in tan and black.",
+        "lore": "This item has no Lore",
+        "date_added": "1 July 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0Ob3fzhF6cqJgImflvnnJ7TDm1Rd4cJ5ntbN9J7yjRqxqUQ-Mj2gI4PAIVRsYArUqQXowuu908S5v53BwXVgu3JwsH7czEe3n1gSOTH2kiU7/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "name": "The 2021 Mirage Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2021_mirage_collection.png?id=499b9cffaf9fce5ee1b1553351586ddc",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [
+      {
+        "name": "AWP | Desert Hydra",
+        "desc": "Gold snakes creep towards the barrel of this custom painted AWP. The scope, barrel, and butt stock have been painted white.",
+        "lore": "Cutting off one head means two more appear—is that a risk you're willing to take? - Valeria Jenner, Revolutionary",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJK9diklb-HnvD8J4Tdl3lW7Ytw3LDD8NWnjFDhrUo5Nj_3cI6dIA9tZ1zQrFLqk7jugMK075WfznowpGB8suOz62BA/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Desert Eagle | Fennec Fox",
+        "desc": "It has been custom painted with a fennec fox on the barrel. The grip features teal and orange designs.",
+        "lore": "All the better to hear you with",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-Nkvn6NrjummJW4NFOhujT8om70QawqRc9ZGqmcNXGdFNsZ1jS-Ae_l-7tgZ7v7pzAyXRg7icj5XiMzgv3308Gn6NOEA/512fx384f"
+        }
+      },
+      {
+        "name": "MP5-SD | Oxide Oasis",
+        "desc": "A brightly-colored orange and teal camouflage pattern has been applied. The weapon has been finished with gold accents.",
+        "lore": "A weapon this quiet shouldn't be so loud",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf1OD3fC0X09Kzm460kfvxOK_QhGVu5Mx2gv3--Y3nj1H6r0RqNm_wLIOQcgdrNFHY_1e8l-2-gMXpucucyXo1vXMk7SrcnxWzhwYMMLIO27LOBQ/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "XM1014 | Elegant Vines",
+        "desc": "A red and green flower pattern has been applied.",
+        "lore": "Some see a nuisance; I see beauty",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.37": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTjBN_tOJgIWTg_74NoTThGJW4NFOhuDG_ZjKhFWmrBZyammnLdWUcgRtNw7Vr1S-lOvp15PouM-dmnswsyYltC3azkCw1E4YZvsv26ItkZdarQ/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Sand Storm",
+        "desc": "A custom paint job depicting a passing sand storm underneath the night sky has been applied.",
+        "lore": "There is beauty all around us, you just have to know where to look",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFABz7PLddgJR7dKyq5OfmOX5DLfYkWNF18lwmO7Eu4igjFDh_0U-MG71JtWSegI5ZQmBqVXsxunshsfqvMjNnHc1vXYh4nnD30vgzoJi2Yo/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Pink DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf2-r3dTlS7ciJhImFnMj4OrzZglRd6dd2j6fF8Y733AKx-0Y5YmD1JIHHelBvYl7WqQXsybu50MC_tZ3NwSdmunUm-z-DyBC56XLU/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "M249 | Humidor",
+        "desc": "It has been spray-painted with a brown and purple vine and flower pattern.",
+        "lore": "\"What are they keeping in there?\"",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zFfi9N09-3hpaCmfDLMa7DmH9u5Mx2gv3--Y3nj1H6_UVpMGGidYKXegE7N1zWq1K2lO-50JW06J6cnHY26yd3tHnYzRTl1wYMMLK2yI6yPA/512fx384f"
+        }
+      },
+      {
+        "name": "MP9 | Music Box",
+        "desc": "A gold damask pattern has been applied.",
+        "lore": "Fight of fancy",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZt7P7BYzxF6eOwmI-ckuXnDLbUgmpd4cZOhuDG_ZjKhFWmrBZyYmChcNDAIwY2M1DV_lC8w73r0JHpu5zBzHAx7nR2tHaMmhzi1RsfOvsv26KGrhCKGg/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Purple DDPAT",
+        "desc": "It has been painted using a purple Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ0927q4SPh_bgDKvEhHtd7fp9g-7J4bP5iUazrl1lamr7JoPBIVJtYFnQ-gLqkLjmh8S9vZScwXAxuHJz4nrbzha_000dcKUx0qP_CJgD/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Desert Blossom",
+        "desc": "It has been spray-painted with vibrant flowers atop a dry, cracked base.",
+        "lore": "Nature always wins",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.49": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3dThR6c6iq4KHmPj5DLnDn2xZ_Pp9g-7J4bP5iUazrl1sa2uidYaSJ1U3ZF3R-Vi_wOrs0Z7utJ_MnCRq7CEi432IzhCzgx9FcKUx0sd6EI91/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P90 | Verdant Growth",
+        "desc": "It has been spray-painted with a flower pattern in various shades of green.",
+        "lore": "Some see a nuisance; I see beauty",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.47": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7P7HYzJ9-NmugImHksjzIb7UmFRH4ct0teXI8oTht1i1uRQ5fW30cI6VIw42YgvR8lW4w-e7h5a4tcvBmHc2uCAm437Yn0e0hE1KZ7BxxavJxC4P7pE/512fx384f"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Midnight Palm",
+        "desc": "It has been spray-painted with black palm fronds over a gray and purple camo.",
+        "lore": "\"The sign says closed!\"",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZfwOP3YTxO4eO4nYeDg8j4OrzZglRd6dd2j6eY84iljQXnqEU_NTuhJYLAJFRqNVDR_VK8kr_qh8C6uMvKynU2snUl-z-DyJCx_kND/512fx384f"
+        }
+      },
+      {
+        "name": "Dual Berettas | Drift Wood",
+        "desc": "It has been spray-painted using brown paint in a pattern resembling dried wood.",
+        "lore": "Knock on wood; you're gonna need all the luck you can get - Felix Riley, Commanding Officer",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwOP3dS9b08u5m4S0m_7zO6_ummpD78A_0rDH8Imnjg3jqEBrYWv0IIHEcw9qMgvS_Fi9yOm7gpfq6JqfnSYwuz5iuyjXH96Izg/512fx384f"
+        }
+      },
+      {
+        "name": "FAMAS | CaliCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxlbi_kM9YTjzIYfEegY3NV_R_AW6w-fn0ZS_tJrOy3tnvyZz4X_ZzECpwUYbb4g9zwY/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "SSG 08 | Prey",
+        "desc": "It has been spray-painted with a rust colored zebra stripe pattern.",
+        "lore": "Eat, sleep, hunt, repeat",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.48": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3azhA_t21lY20hfLwDLfYkWNF18lwmO7Eu9X0jVK2-ks4MjjzLYOQIABvMlGC-gW-yObuhpS4vpibzntqu3Zx4yrD30vgAnJSXB8/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Sienna Damask",
+        "desc": "A damask flower pattern has been spray-painted atop the weapon's tan-colored base.",
+        "lore": "Technically the best camouflages are the ones you don't notice...",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3fDRQ7duzq4aHmODxIajugmpf18l4jeHVyoD0mlOx5UVqYmzyJdSde1U-Zl_WrAK-w-q805DutMjIyXFqunZz7HyImETm1R5SLrs4Mck4YxU/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Anolis",
+        "desc": "A green and black hydrographic lizard scale pattern has been applied.",
+        "lore": "Painted to scale",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3fTRY7c6yq5OAnvnLP7LWnn9u5MRjjeyPodum2VfjrUI4YWjyLYDGdg85YFzQ_wC5w-y8hpC1vZybyCZhuXFzsGGdwULyqHHt-w/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Drought",
+        "desc": "It has been spray-painted with a pattern of animal skulls.",
+        "lore": "All that remains",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.44": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zMdC5H_siJh4uem_vnDL_QgWVu5Mx2gv3--Y3nj1H6-xY6ZGD1IoXEewc5Z1rQrlPvk-fuhZG0vZzMy3Jj6HYg4nvanRO-0AYMMLL4kbEedA/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Navy Sheen",
+        "desc": "An anodized navy blue VariCamo pattern has been applied.",
+        "lore": "Why so blue?",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szGcCtb08--nY6OqPv9NLPFqWdQ-sJ0xO_Fp4qk2gDlqBZsMT-iJYDHIFRqaVHX-we5w-brg5K-tc6awXVn7iA8pSGKCZDD33w/512fx384f"
+        }
+      }
+    ]
+  }
+}

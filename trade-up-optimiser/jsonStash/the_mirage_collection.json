@@ -1,0 +1,182 @@
+{
+  "name": "The Mirage Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_mirage_collection.png?id=2956aa53320bb57eddcba034c377d618",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "MAG-7 | Bulldozer",
+        "desc": "It has individual parts spray-painted solid colors in a production line yellow color scheme.",
+        "lore": "This bone crusher is a devastator",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzRdDFO48uJmImMn-PLP7rDkW4f6scjj7-Trdz22VDt-RJpZG2gLYWUcAVqZlGE_1a8xezog8LuupSfymwj5Hd5_c8U3g/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "MP9 | Hot Rod",
+        "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
+        "lore": "Automatic. Systematic. Hydromatic.",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FAZu7OHNdQJO5du-gL-HluXzNvWBwzpT6pUiibmSooig2gXsqEJpMGuhLdCcdQ85M1rRqFTqwenrgce0ot2Xnr3oE0PK/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Amber Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0vL3dzxG6eO7kZSKm_v9MITdn2xZ_Pp9i_vG8MKkiVLgqkpvNj_2ctPAc1A_ZFnQrlK4xbjqgcK97ZrKyXZkvigk5SqLgVXp1j1Con14/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Blaze",
+        "desc": "It has been painted by airbrushing transparent paints over a chrome base coat.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0vL3dzFD4dmlq4yCkP_gDLfQhGxUppUi2bGW89j02FXgqhBqNTz1JIKWdVNtaFHYr1i9lbvv15W16ZSbwSB9-n51WUDG5CE/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Glock-18 | Groundwater",
+        "desc": "It has individual parts spray-painted solid colors in an olive drab color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxfwPz3fjFL-tmJmImMn-PLP7rDkW4fucR32eiZodqt21blrUJuYD3zdtWUdQU_aAzR_li5yLy5gse9vpzIzGwj5Hd6uOgkxw/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Gator Mesh",
+        "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3fDhR5OOmjZSDmPnLP7LWnn9u5MRjjeyP8ImiiQbn_kA6Z2D6ctWXcA5oaVCBqwC3yLy7gsfvuMnAnyMwuyIn4mGdwUKmQ-0CcQ/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Tropical Storm",
+        "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwOP3YTxO4eOlnIGPmODLP7LWnn9u5MRjjeyP846n3FbhrhduMmnwdYWQIwc8N12Fr1a_x-i91pK5tMybzSM2vSd34mGdwUJeWB4MEA/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Orange Peel",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7OfJYTh94863moeOqPv9NLPFqWdQ-sJ0xLyZotzx21Dm-kc_Zjv3d9KccAVqZ1CD_gC-wOi9gpS5tZvByXo36CE8pSGKYWm0K44/512fx384f"
+        }
+      },
+      {
+        "name": "Negev | CaliCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3ZzxQ5d-3mY-0k_LnNqnFqWdY781lteXA54vwxgXi8hE4ZDqgLY6TJFM2M1vU-1Dtw7jn0cW4tJmdmCZn73UrsymLmBSpwUYb0mvY8oc/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Galil AR | Hunting Blind",
+        "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJP6c--q5OHluT8NqjummJW4NFOhujT8om7jge3-hY6am2mIYTEIwBtNw3TqVLskOznjJbpvMnMmCFjvSYm7H_dzgv330_KjFrJvQ/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7PfJYS1O6eO6nYeDg8j4MqnWkyUH6ZIg3-_CrY6j21Wx_kVlMGulddXHcwA-ZgrV-FW9kuzu1JG-tJ2Y1zI97aYB6vVS/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Colony",
+        "desc": "It has individual parts spray-painted khaki and grey.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRv7ODYcD5H09G3homFksj4OrzZglRd6dd2j6fE8Nmn3VLhqhI6YmCgItKcdVdoYgrQ-Va2le27hsXt75_PzXVl7igi-z-DyEqZTAME/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Contractor",
+        "desc": "It has individual parts spray-painted tan, navy and dark green.",
+        "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N08y7l7-HnvD8J4Tdl3lW7Yt0iL_ApdTx3AzjrUBoYWqnLYOTeg82MwmF_QO2xershsS96pnPnXBmpGB8ssqDRWAK/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Bone Mask",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zccC1H09C_k4ifqPv1IbzU2DNU68Aj2r2Wp9usiwTh_0BuZjvzcISTcQQ7ZFGEr1C6xL2605O-uMzXiSw0N5z8ZDA/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZfwOP3fDhR5OOilY60m_7zO6_ummpD78A_27DA9o_w2lXl-0NsYzjxd4aWJA5oaVGEqVK3l7ju1MC_6ZWamHNqvz5iuyhFvpA91A/512fx384f"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "name": "The Dust 2 Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_dust_2_collection.png?id=1a2cddb40f4478ca7275a295d45f72d8",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [
+      {
+        "name": "R8 Revolver | Amber Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "8 December 2015",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96t2ykb-GkuP1P7fYlVRD7dN-hv_E57P5gVO8vywwMiukcZjBdwBraVmG_1nsk-nug8fvus6YyHFj6HQm5HfdnUfliRFKbLE7habIVxzAUNH92sAX/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "P2000 | Amber Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJE7dizq42Og_b4P7LSqWdY781lteXA54vwxgyxrRdkYjr6d9CRegVvNQrWqAXoxObqhZ60vJ2fz3A3uXZx4n3enhWpwUYbzcrFVY8/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "M4A1-S | VariCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO-jb-dluX9MLrcmVRd4cJ5ntbN9J7yjRrj8kdkY2qnddPGc1I4NV6DrlPtxem7jcO0uZ_JnXs1v3Yit36LzBTln1gSOVPvlQi-/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Damascus Steel",
+        "desc": "It has some damascus steel parts.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0uL3dTxP7c-1gZO0hPChZujummJW4NFOhujT8om73QDn-EZpZWH0coaWewBvNVnQrwW8l-zohZPu75_NyyE2v3Z2sy2Omgv330-09DG6wA/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Brass",
+        "desc": "It has brass parts.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0uL3cy9D_8-JmImMn-PLP7rDkW4f6cNyiOvFpomm2VKw-EVsYz2ndoKQIAJvYQvU8gO4wuvv1MS7upyfwGwj5HeoW2JJ8g/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "MAC-10 | Palm",
+        "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldfwOP3YTxO4eO6nYeDg8j4MqnWkyUDusQi2LCX8dyi0VHm_BA-ZDuhJo-UJwc7NA6G-1Htw-e-1J617p6c1zI97Vhiy6qQ/512fx384f"
+        }
+      },
+      {
+        "name": "AK-47 | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zFdC5K08i3mr-HnvD8J4Tdl3lW7Ysh2b6T9Nnx2wOy_0RvMWCgcoPAcFNrYlqE-Ae7le3ph5K76p_NmHEypGB8sh8bMz38/512fx384f"
+        }
+      },
+      {
+        "name": "Sawed-Off | Snake Camo",
+        "desc": "It has been spray-painted using a snakeskin stencil in patches that have been outlined freehand.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3Yi19_9K3n4W0m_7zO6_ummpD78A_3-yXoI2m3QSy-EM9Mmz6JtLAcAU6N17T-wW7ley80Z-0tJ7BnyBn7z5iuyiXz1trIw/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Orange Peel",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5S08i3hIW0mOX1PbzUqWdY781lteXA54vwxlDj80c5MGmgLYSUcQBraA7TrFK9kr_vjJK4uMufzSQ2vHEjs3renxWpwUYbSPjL1mQ/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | VariCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszecC9L7927m7-HnvD8J4Tdl3lW7Yspi7GXpt-s2Few-xU_YW3wd4WTewFtYgzV_1C_wue7hpO5v8udnHJgpGB8sk8duAeH/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "G3SG1 | Desert Storm",
+        "desc": "It has been painted using a desert camouflage hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3dThR6c6iq4yCkP_gDLfQhGxUppF037yXpNSt3FLlqBdrNWGnIo-Td1Q3Ml_Z81Doyee-gpa-7prLm3Z9-n51iALsKkE/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Predator",
+        "desc": "It has been spray-painted in a zebra stripe pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhzw8zSdD9Q7d-3mb-HnvD8J4Tdl3lW7Ysli7iS94j23FK1-BFpMD30cI6cIQ5tMlDT_VG-le2-hJW_vpuYzyFgpGB8smlospdV/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Sand Dune",
+        "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+        "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhz3MzbcDNG09C_k4ifqPv1IbzU2GgGv8cm3LuRrN_33APs_RZsMGn0JIWUdVM4MFrR-FDtw7vo15LvtJvXiSw0VNVwrl4/512fx384f"
+        }
+      },
+      {
+        "name": "MP9 | Sand Dashed",
+        "desc": "It has been spray-painted using short pieces of tape as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh9_9S5hpS0hPb6N4Tdn2xZ_Pp9i_vG8MKt0Qew-xE9MD_zJ4GQcgI6aQuFrFXslO-5g5K1uZTIm3tluCIr5XiIgVXp1vbXUxFY/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Sand Spray",
+        "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+        "lore": "Perfect for the insurgent on the go",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FBRw7ODYYzxb08-3moS0m_7zO6_ummpD78A_27HA9tvw3gDg_UBlMWH0IYDDIwU3aVzQ_1Tvxefs1pPou8uawXBnsz5iuyjoOPjz8g/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Sand Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTjBH_9SJh4GFk8j4OrzZglRd6dd2j6eZrdz0jVDs-RZpMTj6d47Ge1I6MF-FqAO2ybvq1JO9uJTImidh7iUr-z-DyIbAqFzg/512fx384f"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "name": "The Norse Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_norse_collection.png?id=db9cdae0f0bce20689e2f944bb1a364f",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [
+      {
+        "name": "AWP | Gungnir",
+        "desc": "Odin's spear travels down this custom painted pearlescent blue and ivory AWP.",
+        "lore": "A weapon for the Allfather",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJF-dKxmomZqPv9NLPFqWdQ-sJ0xO-ZpY-n0AHt_0M6ZGygd9eQegE9YAzYrwDqx7y7jcTpvc7IwSdgsnI8pSGKcZwC8Qk/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "Negev | Mjölnir",
+        "desc": "It has been custom painted red and features a number of Norse runes.",
+        "lore": "\"This is all Loki's fault…\"",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf1OD3fzhF6cqJgIiEhcj4OrzZglRd6dd2j6eUpdqliQO18kJvMWj0JYDDI1A5NFDRr1C6xLrpgMO87pnJwXMxuCB0-z-DyJcgKI6K/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AUG | Flame Jörmungandr",
+        "desc": "An orange pattern depicting Jörmungandr, the World Serpent, has been applied.",
+        "lore": "Wake the gods",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZt7PnHYzB94863moeOqPv9NLPFqWdQ-sJ0xLjF896t2AzhqkI-MGjzctCScABsaQnV_ge7kufr1sXtvZXBySQ3uyk8pSGK0PqJzoA/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Emerald Jörmungandr",
+        "desc": "A green pattern depicting Jörmungandr, the World Serpent, has been applied.",
+        "lore": "Wake the gods",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjdN_tGJk5KOkvnLP7LWnn9u5MRjjeyP8Y6k2ADhrRY5YzilJoXDcA5sM1yBrAfqwOjr0Za76Z6YmCY3viJ3tmGdwUKSaOiVgw/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Astral Jörmungandr",
+        "desc": "A silver and blue pattern depicting Jörmungandr, the World Serpent, has been applied.",
+        "lore": "Wake the gods",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZt7PnHYzB97tCjkb-HnvD8J4Tdl3lW7YsljriUpN6kjQW1-UppYWnxdoKTIAE6ZFqC-gC3w-m8hZa178ibm3FkpGB8svtsvVyp/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "CZ75-Auto | Emerald Quartz",
+        "desc": "It has been painted with green metallic paint and uses a crystallizing mask to create a pattern.",
+        "lore": "Everyone wants to make an impact",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73ci9b_8i3mIyCjfLwDLzDk25f18l4jeHVyoD0mlOx5UU9Nmj6JtXHJAI5M1qDqFC_lL3rgsDv6M6bmCZjvXEktHjVyUe01x9SLrs4B1ojU_U/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Brass",
+        "desc": "It has brass parts.",
+        "lore": "This item has no Lore",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PLZTj9Q7c-lq4yCkP_gDLfQhGxUppFz3rCW893w3FXg-RJpMG_3IYedc1c_ZFvUqQK8ye3thcO_6pvBzXB9-n51bjDLWd0/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Frost Borre",
+        "desc": "A Norse inspired pattern of silver interlocking rings has been applied.",
+        "lore": "Not all clouds bring rain",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PLFTjZM48ilq5OCm-HxIYTdn2xZ_Pp9i_vG8MKi21fj_0A5Z2H1I9DDIQY7Y12CqVa3kurnjcLvtZ2amnNh73Un5i6OgVXp1j87Anfe/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Copper Borre",
+        "desc": "A Norse inspired pattern of gold interlocking rings has been applied.",
+        "lore": "We end the way we began; in the dirt",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0v73ejNN-M-JlpKEgPnLP7LWnn9u5MRjjeyP9tWj0ADi8xVsNWCld4OXdFA5MFnSrgW2kOm5gMPu6JqfmiFhvigj7GGdwUJ991kjOg/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Dual Berettas | Pyre",
+        "desc": "It has been painted using a rust-tinted hydrographic of a gel pen doodle.",
+        "lore": "Honor your dead",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf2-r3djhO_Nm4q4SKhfzLP7LWnn9u5MRjjeyPpdqhilexqBI-YDqgLIGUdgZrZQnWr1fowbjsgcXvv8jJyXRkv3Ql4mGdwUJHp7vkig/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Pathfinder",
+        "desc": "It has been spray-painted with a stencil of an isometric labyrinth.",
+        "lore": "Personally I prefer the 4th edition, but the customer is always right - Booth, Arms Dealer",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.35": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yKle7mOrXFnjlu5Mx2gv3--Y3nj1H6_UFqam6mIYSUclBrYlqGqVDsxLy8hsK5vpibyHtk7iUh4H_VlhC31QYMMLKmH8kw5w/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Moss Quartz",
+        "desc": "It has been painted with dark green metallic paint and uses a crystallizing mask to create a pattern.",
+        "lore": "Everyone wants to make an impact",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Ihe7nJ7rdmmJL7cFOjujT_rPymlGxpSwwOj6rYOnJI0RpNEaE8wfsl-fs0cC46s_KwSZguiJz4iuJl0e1hhBPPbBohv2eSlnPDqRPAuDcUZ8bvNY9/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Chainmail",
+        "desc": "It has been painted with a semi-transparent hydrographic in a chainmail pattern over a silver base coat.",
+        "lore": "Of all the members of The Phoenix, none are more loyal to Valeria than her bodyguard Naomi",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.22": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhh3szLeTxL4tG3nYy0m_7zO6_ummpD78A_j7_Fo4mj3Ayy_BFpammlIoLEJAQ2YV2G_1i8xu--hpC46pyby3BruT5iuyjnM2Eonw/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "FAMAS | Night Borre",
+        "desc": "It has been spray-painted with a Norse inspired pattern of interlocking blue rings.",
+        "lore": "\"It is better to fight and fall than to live without hope\"",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3ejNN-M-Jloyeksj4OrzZglRd6dd2j6eQ9Nr02lfirRZlY2j6LNeVdwU6YFiE-Ve6lbrrjZK4vc_MyCQxu3El-z-DyLpEJ3gg/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | Tornado",
+        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbfgJW4864lYSEqPv9NLPFqWdQ-sJ0xOjH8Y2k2gLi80RqZWihI4-VdVI4aFHT-Ae4x7_rgMK_6ZqawXdmvSM8pSGKKL0esGA/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Red Stone",
+        "desc": "It has been painted with an olive grip and maroon slide.",
+        "lore": "Shame, the inscriptions have worn away with use...",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3YyhM6eOlgI-Fksj4OrzZglRd6dd2j6eRpdT2igewrxI6Ymn1dYaUe1RtZV3R_lLqx--915TpuZ_JmiNmunYm-z-DyH0ug_0B/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7PfJYS1O6eO6nYeDg8j4MqnWkyVVv510iLyRpYn32wLiqUduMmz7IYGTcAM2Yw7T_lG-yObsgMLotZnP1zI97Xclu5bj/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Barricade",
+        "desc": "It has been spray-painted with a stencil of an isometric labyrinth.",
+        "lore": "Hopeless by design",
+        "date_added": "19 November 2019",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.65": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwOP3cC5F7c6yq5eKm_vLP7LWnn9u5MRjjeyPoY6k2QLs_xVuaj_xJYOWIwNrMAnXqFLtwOjt0JHp6JvPz3cyuiQntGGdwUL_0BBI6Q/512fx384f"
+        }
+      }
+    ]
+  }
+}

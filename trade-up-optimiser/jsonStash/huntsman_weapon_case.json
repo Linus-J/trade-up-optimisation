@@ -1,0 +1,326 @@
+{
+  "name": "Huntsman Weapon Case",
+  "image_url": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQNqhpOSV-fRPasw8rsUFJ5KBFZv668FFQu0PaQIm9DtY6wzYaIxKWtN7iJwW8G6Z0h2LqWoY6s2Qy2-0Q_Nzv7IJjVLFGZqUbjlQ/256fx256f",
+  "content": {
+    "Rare Special Items": [
+      {
+        "name": "★ Huntsman Knife | Slaughter",
+        "desc": "It has been painted in a zebra-stripe pattern with aluminum and chrome paints with various reflectivities, and has then been covered with a tomato red candy coat.",
+        "lore": "Valeria doesn't pay Javier to ask questions... she pays him to pry out answers",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.01-0.26": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlY20jfL2IbrummJW4NFOhujT8om72Qbt_RdrZT3wINCUJwM5YlDV-FXtye7n05W6uZjBzSNgsnFzs3mPyQv330-XzjMajA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Case Hardened",
+        "desc": "It has been color case-hardened through the application of wood charcoal at high temperatures.",
+        "lore": "A little color never hurt anyone",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlZG0mP74Nr_ummJW4NFOhujT8om7igDnr0I_Mm_zJ9CXIQA3Zl7U-lG_kOi9gMC-uMvLwXdl6yZ05S7bmgv330-Ff2dfAA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Scorched",
+        "desc": "It has been spray-painted in a sun-dappled pattern.",
+        "lore": "The Phoenix is not a symbol of destruction... it's a symbol of rebirth - Valeria Jenner, Revolutionary",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJh5C0k_bkI7fUqWdY781lteXA54vwxlLlrkE-Ym30LIScew84Yg2Crge3kubth8Tq75ucnyAy6HMjsCzczB2pwUYbUFXe3jk/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Stained",
+        "desc": "It has been given a forced patina using lemon and mustard dripped onto the surface.",
+        "lore": "If you think it's messy now, wait until you see it under a blacklight",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlZG0kfjmML7VqWdY781lteXA54vwxla1-xI-YWqgcoGRcAdoYFvQ_lS6k-26hJ69usibynFjuHIn7XfanhepwUYb_Z1lKzI/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Safari Mesh",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJh5C0mvLnO4TFl2Vu5Mx2gv3--Y3nj1H6-EJoNjj1IYLGJlRvaAvZ-1Hvwuboh5K4vp_NzCZhuCYqtyrZnxHk1wYMMLI47XWL5Q/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Crimson Web",
+        "desc": "It has been painted using a spider web-patterned hydrographic over a red base coat and finished with a semi-gloss topcoat.",
+        "lore": "Be careful where you walk, you never know where the web is spread",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0gPL2IITdn2xZ_Pp9i_vG8MLwjgbg_UI_Y2rxLIGSIFA5NV6C-1e-wb251JfvvpzKyHUx6Slx4XndgVXp1lCrFlUj/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlYG0kfbwNoTdn2xZ_Pp9i_vG8MKjjgbl_UA_MDz3ctCUcwA8Y1yG8lG3w-7v1p_ptZ_BnSA17yFx7H2MgVXp1l4ye9bA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Urban Masked",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJh5C0g_bkNoTEhGlQ5vp9g-7J4bP5iUazrl0-Ym73JdeSegVsZljR_QW7k7jujJfp75SYm3o1uXEn4X3amBS_gxFIcKUx0oGnJYRg/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Boreal Forest",
+        "desc": "It has been painted using a forest camouflage hydrographic.",
+        "lore": "The woods can be a dangerous place... never travel alone",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0kfjmNqjFqWle-sBwhtbN_Iv9nGu4qgE7NnehIoHBcVI_aFnQrlS5w-vt05S7u5nAmHc2uCcn5nrZzhKzhR8ZZrFsm7XAHnEvQoLM/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | ★ (Vanilla)",
+        "desc": "This item has no description.",
+        "lore": "This item has no Lore",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "vanilla": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_tactical.7621bbad70410deb629d60ed98ef248dac525356.png"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Blue Steel",
+        "desc": "It has been cold blued.",
+        "lore": "This is the malbec of weapon design - Booth, Arms Dealer",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJlZG0lfvhNr_ummJW4NFOhujT8om731fg-Es-YDr0JI-WcVJqYQ3WqFm-xr_qg5-87ZrOziFguicr7XveyQv3308Qt8kQdA/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Forest DDPAT",
+        "desc": "It has been painted using a Digital Disruptive Pattern (DDPAT) hydrographic.",
+        "lore": "By the time you're close enough to notice the pixels it's already too late",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJnJm0k_PkMq_ummJW4NFOhujT8om72QTt_Utra2D2cIGXdQNrM1DQrFXvxua5h5e-6c6bnCBru3IhtyuOzQv330-aiXzE2Q/512fx384f"
+        }
+      },
+      {
+        "name": "★ Huntsman Knife | Night",
+        "desc": "It has individual parts spray-painted solid colors in a night ops color scheme.",
+        "lore": "It's the whisper of the wind... it's the bite at your neck",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJh4-0mf7zO6_ummJW4NFOhujT8om7igSy-kJkYGHzI9DGIAc-MlvV81O8we67gJC16M6azntjvSN25Hrcmgv330-GTEGtzA/512fx384f"
+        }
+      }
+    ],
+    "Covert Skins": [
+      {
+        "name": "M4A4 | Desert-Strike",
+        "desc": "It has been custom painted with a high-tech design in tan and black.",
+        "lore": "This item has no Lore",
+        "date_added": "11 June 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhjxszceClD4s-im5KGqPv9NLPFqWdQ-sJ0xOiQo93zjgKxqkFvMj_xcI_HIFJtYQnX_1boxO_phsDtvcydwXUyuSA8pSGKJZ_JCy4/512fx384f"
+        }
+      },
+      {
+        "name": "AK-47 | Vulcan",
+        "desc": "It has been custom painted in a sports inspired design.",
+        "lore": "This item has no Lore",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.9": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV086jloKOhcj4OrzZglRd6dd2j6eUrd-jiwfsr0BsYG6iIdeUJA8-Nw6EqVntyLrv15-4v5vOmiNr73Z2-z-DyAddTn8e/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "USP-S | Caiman",
+        "desc": "It has been custom painted with an image of a Caiman.",
+        "lore": "This item has no Lore",
+        "date_added": "11 June 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq4uKnvr1PYTdn2xZ_Pp9i_vG8MKtjVDl_UtoZGGmJ4aTIFI9aVqB81Hvl7zu15G97cnAn3VmvyFw5nvfgVXp1oe126ve/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Atomic Alloy",
+        "desc": "It has been anodized black and orange.",
+        "lore": "This item has no Lore",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.9": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uO3mb-Gw_alfqjul2dd59xOhfvA-4vwt1i9rBsoDDWiZtHAbA48MwzS_VPqwezqg8C9u8ibwXRjuClz7SvcmxS20hwZa7c5h6fNQA-AR_seVEiZW-4/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Cyrex",
+        "desc": "It has been custom painted with a high-tech design in black, white, and red.",
+        "lore": "This item has no Lore",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7PDdTi5B7c6Jl5mZku_LP7LWnn9u5MRjjeyP8ImhjFXl-BZuN273cIbDJgdoNQqBq1now72-gZ_p7pyaziRj63NxtGGdwULm7JPnpA/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "AUG | Torque",
+        "desc": "It has been custom painted with a robotics inspired pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLddgJS_tOxhoWYhP7iDLfYkWNF18lwmO7Eu4qi2Qa2qhVlYWzwdtKWdwFtZlmB-1S8xLq-1pO96Z7Jy3tr6Skn5nrD30vgYhMJ-CM/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Antique",
+        "desc": "It has been painted using a combination of hydrographics and dry-transfer decals to create the look of a wood stock and gold inlay.",
+        "lore": "With age comes wisdom and stopping power",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf0Ob3czRY49KJlY6fnubhNoTdn2xZ_Pp9i_vG8MKl3gDi_EJrZmzyJY-SdFJvNFzS-1jryL29h8DvtMyby3I37CB343regVXp1phXL_vD/512fx384f"
+        }
+      },
+      {
+        "name": "XM1014 | Heaven Guard",
+        "desc": "It has been painted using a combination of subtly patterned hydrographics and dry-transfer decals of wings.",
+        "lore": "Sometimes the wings of an angel don't mean salvation",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.03-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgporrf0e1Y07PDdTiVPvYznwL-DkvbiNrXukX5Q-sFOhuDG_ZjKhFWmrBZyMG6lJ9Cdegc7N1GDqwC3w7q-1JPq6sjNyntjsigitn7bnxPhhUlEb_sv26LqmddafA/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Tatter",
+        "desc": "It has been custom painted with a high-tech design reminiscent of flames.",
+        "lore": "This item has no Lore",
+        "date_added": "11 June 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3ejJQ-cyiq4yCkP_gDLfQhGxUpsAgj-_F9o332A3t-URkMmj3I9DAcFA-ZlzQ_1O_xezujcO7uMjOyXd9-n51Gn7P9z4/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Galil AR | Kami",
+        "desc": "It has been painted using a hydrographic in a Japanese manga pattern.",
+        "lore": "Some ghosts won't stay buried",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJF7dC_mL-Alvr9DLfYkWNF18lwmO7Eu4qk3wzn_EFtMWzwJY7AIwM_MwuC_Vm3wby5jMXovJ3BzSM16XQhsHzD30vg4zncSr4/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Isaac",
+        "desc": "It has been custom painted with a sci-fi design.",
+        "lore": "This item has no Lore",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhjxszcdD4b092lnYmGmOHLP7LWnn9u5MRjjeyPrI2hjlbtqRE6ZT_zJYSVe1Q2NwzTrwfolLq-hMPp78uayCdm6ylz5mGdwUJXtvY84A/512fx384f"
+        }
+      },
+      {
+        "name": "P90 | Module",
+        "desc": "It has been painted using metallic paints with an overlayed hexagonal pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "11 June 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.35": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZu7OHHaDxO7tCzkYS0m_7zO6_ummpD78A_37HF846h0AHl8kNkN277d4WUJwQ-ZFzX_Va3wr_ph5a1vp7OynU36D5iuyj0A1mk7w/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Slashed",
+        "desc": "It has been painted using a hydrographic in a claw mark pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "1 May 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.15-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0Ob3Yi5FvISJnY2GmOXgMrfum25V4dB8teXA54vwxgyxrhY9ZjymctLAcA42NV6BqQPql-vqgsfu75SayiNkvidw5X_Vy0epwUYb0EJFrhY/512fx384f"
+        }
+      },
+      {
+        "name": "P2000 | Pulse",
+        "desc": "It has been painted with a hydrographic of bold fuchsia fragments.",
+        "lore": "Striking colors for a striking weapon",
+        "date_added": "11 June 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zLZAJSvozmxL-bgvvnNoTdn2xZ_Pp9i_vG8ML03w2yqBU_N2z6JoaXdg87ZF_TqwPolbq8hMO7up_OmydluHImsH6OgVXp1hloYnQm/512fx384f"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Twist",
+        "desc": "It has been painted with a spiral design leaving the handle white.",
+        "lore": "This item has no Lore",
+        "date_added": "11 June 2014",
+        "can_be_souvenir": false,
+        "can_be_stattrak": true,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf0v73diRQ7cizq4yCkP_gDLfQhGxUppwhjLCWptqsiQPt_UppMm6lcNXHdAU9MFGD8wC3lOvp05S17Z3MnXd9-n51fgb0S08/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

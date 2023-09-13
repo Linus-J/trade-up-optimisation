@@ -1,0 +1,3 @@
+numpy
+undetected_chromedriver
+selenium

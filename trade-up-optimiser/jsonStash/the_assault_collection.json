@@ -1,0 +1,94 @@
+{
+  "name": "The Assault Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_assault_collection.png?id=c61c654cd09e5f06bedd30557f14e0e4",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "MP9 | Bulldozer",
+        "desc": "It has individual parts spray-painted solid colors in a production line yellow color scheme.",
+        "lore": "This bone crusher is a devastator",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRv7OrNfTFN--O6nYeDg8j4MqnWkyVV7sQk2uvF89ynile3qUpsY2unJI_Geg8_NVzRqAC4xLzu1sO-6JSa1zI97a3Fmcif/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0vL3dzxG6eO6nYeDg8j4MqnWkyUHucB1ieqXrIrz2gHmr0ZvZDj3cNKUdlQ-YF6DqAS2w-i8h5Dt6Zib1zI97Ycw1ud8/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Negev | Anodized Navy",
+        "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf0v33fzxU9eO6nYeDg8j4MqnWkyUE7MR3ibqTpY2m3Va3-0c5Y2qhdtOVIQJrZQrRqFO3wu3mjcK97smY1zI97Sh413Tv/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Hot Rod",
+        "desc": "It has been painted with a chrome base coat and candied in transparent red anodized effect paint.",
+        "lore": "Automatic. Systematic. Hydromatic.",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZu7OHNdQJO5du-gL-HluXzNvWIl29TsJwljLmT9Irz3wPsrRU6amj7LNeXdlNrMFmG-gK2k-jpg565ot2XnjMC3WBZ/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Five-SeveN | Candy Apple",
+        "desc": "It has individual parts spray-painted solid colors in a red and black color scheme.",
+        "lore": "Great on cars, better on weapons",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.3": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTi5N086zkL-HnvD8J4Tdl3lW7Ysj0-jEoo6n2gLgqRduMmr6JNPGJAM_MF3R-Fi9ley8h5S8vsudnCNqpGB8surcvCw5/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "UMP-45 | Caramel",
+        "desc": "It has individual parts spray-painted solid colors in a caramel and black color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1JfwPz3cjxQ7dGzmL-HnvD8J4Tdl3lW7Ysl0rGS8Y70jQ3s8hZlMG_yLIaQI1c7YguB_wC-w-fnhsC7uJvMziBqpGB8spRtQJXX/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Tornado",
+        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFfwPz3ZTJQ4t2ym7-HnvD8J4Tdl3lW7Ysi2O2QoN6t2gHi-xFuY2yldoWddVVoaV_WrAK_yLq-hp69tZjIwHplpGB8ssS7XkDX/512fx384f"
+        }
+      }
+    ]
+  }
+}

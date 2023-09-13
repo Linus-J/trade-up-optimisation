@@ -1,0 +1,115 @@
+{
+  "name": "The Dust Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_dust_collection.png?id=9869c8557ca41ad26392027f749ca909",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "Glock-18 | Brass",
+        "desc": "It has brass parts.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0uL3cy9D_8-JmImMn-PLP7rDkW4f65x3iOuZodSmi1XjqUZkZmClddDGcVU2Nw3U81TswrrsjJC-vJidnWwj5Hebbg86gA/512fx384f"
+        }
+      },
+      {
+        "name": "P2000 | Scorpion",
+        "desc": "It has been painted using anodized-effect paints in a rippled fade pattern with a red scorpion decal on the grip.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJfAJR79OkhImEmcjkYeuBxlRd4cJ5ntbN9J7yjRrs_UBvYDj2LYPHIQBtZ1nT8wC6lObrgpW46Zucm3pr6XQh5iveyhSzn1gSOfRffSvr/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Blaze",
+        "desc": "It has been painted by airbrushing transparent paints over a chrome base coat.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLJTjtO7dGzh7-HnvD8J4Tdl3lW7Yt1jriVpY-migfh8hBtZTqgcI7Aewc2MgnWqwW-k-zph569uZyfnHMwpGB8slBfgSNs/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "AUG | Copperhead",
+        "desc": "It has been painted using a copperhead snakeskin-patterned hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.12-0.38": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFA957PDHYS1H_tSzlYS0m_7zO6_ummpD78A_27-X84ig3QG2-0NrZj-mdoCcegE2YlHZ8wW3wei8gZO-tcnLnXRguz5iuyg_78IKJw/512fx384f"
+        }
+      },
+      {
+        "name": "AWP | Snake Camo",
+        "desc": "It has been spray-painted using a snakeskin stencil in patches that have been outlined freehand.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FBRw7ODGcDZH09C_k4ifqPv1IbzU2GgB6pYj3e2Yo9z0jgzhqEpkZDumcI-RdgQ2ZlHT_wfsxbzp1JG0vMzXiSw0vjF63Ps/512fx384f"
+        }
+      },
+      {
+        "name": "Sawed-Off | Copper",
+        "desc": "It has been copper plated.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3cCx979OmhIWZqPv9NLPFqWdQ-sJ0xOiT8d_x0Qbn_UJuY2jzLdfBJA5qN1mCqVS9k-m7hZS-uZ2fzyNmunE8pSGKvLf5NxQ/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "M4A4 | Desert Storm",
+        "desc": "It has been painted using a desert camouflage hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhoyszMdC5H_siJmImMn-PLP7rDkW4fu5V12-yS8Y_22Ae2qhA9az33dYXDcAQ8M1uC8lS_kLruh8W7u5rAwGwj5HcrniGrvA/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Palm",
+        "desc": "It has been spray-painted using cardboard cutouts, fine mesh, and palm leaves as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODYTi1D4NGJmImMn-PLP7rDkW4f7cEo2bzFrN-n3wXl8kVtZWn2d4XHcgVsaVHW_1e-l-q618DptJXPyGwj5Hde-x2pdQ/512fx384f"
+        }
+      },
+      {
+        "name": "AK-47 | Predator",
+        "desc": "It has been spray-painted in a zebra stripe pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhzw8zSdD9Q7d-3mb-HnvD8J4Tdl3lW7YskjLiU9tXw3AW28hI_Ymr2do6SIVJvNQrU-lbtyOboh8O_vc7In3BqpGB8svPVnivE/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": []
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "name": "The Safehouse Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_safehouse_collection.png?id=1e084c166e889f56f09dbcdd6bac049a",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [
+      {
+        "name": "M4A1-S | Nitro",
+        "desc": "It has individual parts spray-painted black and tangerine orange.",
+        "lore": "Rona is as good as she thinks she is... she's just not old enough to realize she shouldn't point it out to everyone - Felix Riley, Commanding Officer",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOlm7-Ehfb6NL7ul2hS7ctlmdbN_Iv9nGu4qgE7Nnf1JoPDdw5tNQvV_FW_l-rrhcXv6p-fnHplvHMh5HrfzRC_gRsYb7Ntm7XAHueE-po5/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "SSG 08 | Acid Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.03": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f0vL3dzxG6eOxhoGYhPv1Pb_ummJW4NFOhujT8om70Abt_kM9NWryd4eSdVI_ZVHY-Ve4xOrqjMLo6cjOziRluSMl7CnZywv330-3uNY-DA/512fx384f"
+        }
+      },
+      {
+        "name": "FAMAS | Teardown",
+        "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRfwOP3fDhR5OO-m5S0lvnwDLjemm9u5Mx2gv3--Y3nj1H6qEpvMm7zJNTHcVVoZQzR_lO6wLrs1p6_u5jPwCBmvSEk7XqPn0e1iAYMMLIMy9qjNA/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Silver Quartz",
+        "desc": "It has been painted with metallic paint, using a crystallizing mask to create a pattern.",
+        "lore": "Everyone wants to make an impact",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjxP09-kjZOflvv4OqHUklRC4clnj_v--YXygECLpxIuNDztJdWQJwRoM12B-VS6wOvthsC96svKmHBr7CQj5neJlxbi1ExPP-No0-veFwtwcQTe7Q/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "MP9 | Orange Peel",
+        "desc": "It has been spray-painted using a tangle of masking tape as a stencil.",
+        "lore": "True power is demonstrated with subtle application",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6r8FBRw7OfJYTh94863moeOqPv9NLPFqWdQ-sJ0xL6Wrdmh2gzmrRU_YmrydoHHIFM2ZlCD-1W-k-28gZfu6s_OyndhviI8pSGKwEALt-s/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Forest Leaves",
+        "desc": "It has been spray-painted using leaves as stencils.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-mq4yOluHxIITdn2xZ_Pp9i_vG8ML03wW38xc_Z2HxctPEdldvMFmD_AO7ku_ugMO_u52YzidiuSR2sSmJgVXp1vZAyIRp/512fx384f"
+        }
+      },
+      {
+        "name": "AUG | Condemned",
+        "desc": "It has been spray-painted using mesh fencing and cardboard cutouts as stencils.",
+        "lore": "A predator is a predator, no matter the environment",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFBRw7P7NYjV96tOkkZOfqPH9Ib7ummJW4NFOhujT8om7jVW2rUQ-ZWCgdYeRdgFsNA3V81ftlby-05S97pnBmiZkvyMlsS2Oygv330_iVc0pMQ/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | VariCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ZzxQ5d-3mY-0m_7zO6_ummpD78A_3OqYodjw0Abk80M6ZWGnLIGdegdtNQmC8le2xOy6jJW7ucyfwCAxsz5iuygIrfVizw/512fx384f"
+        }
+      },
+      {
+        "name": "M249 | Gator Mesh",
+        "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zFdC5K08yvgIiEmcj4OrzZglRd6dd2j6eSrIqn2FLh_0plMm6nIo7AelQ3YQnZr1G4xb3mjJXptczByXE3vSIj-z-DyBj1f2vz/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | VariCamo",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczAaAJU7c6_l4GGmMj4OrzZglRd6dd2j6eVrdWmjVCxrUVkYGH2Jo7DI1JtMliB_Vi-kO660Ze_vs6dn3A1u3Ir-z-DyDjf2L5v/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "SSG 08 | Blue Spruce",
+        "desc": "It has individual parts spray-painted solid colors in a moss color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19fwPz3fDJR_-O6nYeDg8j4MqnWkyUGvJIk2e3AptWgjQLjr0dlY2jzJYSTew49aQyG-FnrwLzphpe_7Z_M1zI97dk1ka4S/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Army Mesh",
+        "desc": "It has been spray-painted freehand using mesh fabric as a stencil.",
+        "lore": "This item has no Lore",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhzw8zFdC5K092kmZm0m_7zO6_ummpD78A_iLuVpdj33lW1-xBrNmj2LILDJwQ4aFmDrATskOnv0Z6-v8yfn3dluD5iuyjMzF7OMw/512fx384f"
+        }
+      },
+      {
+        "name": "SCAR-20 | Contractor",
+        "desc": "It has individual parts spray-painted tan, navy and dark green.",
+        "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbmkOVUw7ODHTi1P7-O6nYeDg8j4MqnWkyVSu8Ah3-vA8I_22QHm-Uo9amH6cNLBcg89aF7Ur1jtxbvm08TpupWY1zI97SZLY2Jj/512fx384f"
+        }
+      },
+      {
+        "name": "Dual Berettas | Contractor",
+        "desc": "It has individual parts spray-painted tan, navy and dark green.",
+        "lore": "Rona Sabri still hasn't forgiven Sebastien for not selecting her to go after Turner",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJfwPz3YTBB09C_k4ifqPv1IbzU2G5TuMcn3--Yo9322gOy-UBvN2H7IIDGegY9YVnW_Fe3w-vohJTptZ7XiSw08ipi-ag/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Army Recon",
+        "desc": "It has been spray-painted freehand with short, thick lines in contrasting colors.",
+        "lore": "Perfect for the insurgent on the go",
+        "date_added": "27 November 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFBRw7ODYYzxb092kmZm0m_7zO6_ummpD78A_j7GWrI6t0ATsrUs_am_0cYLDcg5oNQ3R81Xqx7rqjcC6uMmfnSBh7j5iuyjKTEW-7g/512fx384f"
+        }
+      }
+    ]
+  }
+}

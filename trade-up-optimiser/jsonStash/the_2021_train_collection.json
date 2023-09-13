@@ -1,0 +1,204 @@
+{
+  "name": "The 2021 Train Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_2021_train_collection.png?id=064643cde27910fc7f654e71a5f46b81",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [
+      {
+        "name": "M4A4 | The Coalition",
+        "desc": "A custom gold and black paint job with interlocking triangles and blue highlights has been applied.",
+        "lore": "This alliance is temporary, but you're making me reconsider…",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhnwMzFJTwW09-5lYyCg_77PYTdn2xZ_Pp9i_vG8MKm2QewqkBtZWChcoWXIQI8ZlvS_wTskum5hcft6ZyYyXBkuHUh7HaMgVXp1o1UOJQ9/512fx384f"
+        }
+      },
+      {
+        "name": "Glock-18 | Gamma Doppler",
+        "desc": "It has been painted with black and silver metallic paints using a marbleizing medium, then candy coated.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0v73djxP4d2JkI-bh_vxIYTBnmpC7ZZOjeXO9ofKhF2zowcDPzixc9OLIQ5oaAnUq1e7w726gZHouMmcn3o2vSIrs3_fyxGw0B5Nb-Zs0fTLQELeWfLi-55O4Q/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "MAC-10 | Propaganda",
+        "desc": "It has been custom painted with a pair of eyes and various words in Russian, including \"control\" and \"fear\".",
+        "lore": "You don't believe them, do you?",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.62": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf0Ob3fDxBvYyJhJKEh_bzMrXVl1Rd4cJ5ntbN9J7yjRqw8xJsZWyhJY-UJAVqN1DWq1brw7vtgMK4v5nAzntj73Qn4yrdmhy0n1gSOV-pza9R/512fx384f"
+        }
+      },
+      {
+        "name": "USP-S | Whiteout",
+        "desc": "It is spray-painted all white.",
+        "lore": "It looks pure, but looks can be deceiving",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ08-5q5eDnuPxPK7FqXlY-NF4juz--YXygECLpxIuNDztLIHBcVQ2YwvY-QTow-a505a6tZjMwHNmsyAlsX_bnRawh0oZbeQ-1uveFwugDqSkSw/512fx384f"
+        }
+      },
+      {
+        "name": "FAMAS | Meltdown",
+        "desc": "It has been painted with a pattern of nuclear hazard symbols using metallic paints.",
+        "lore": "Steer clear for a while...",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLuoKhRf0v73fyhB4Nm3hr-bluPgNqnfwlRX6chwmdbN_Iv9nGu4qgE7Nnf0cYeRdVA_Yl3X-Fnqx7-90ZC-6pXOyHJrsnQk7CzczRfl1RtEbuJpm7XAHq6vqxRu/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "P2000 | Space Race",
+        "desc": "A space themed pattern consisting of stars and satellites has been applied.",
+        "lore": "Send and receive",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovrG1eVcwg8zJcAJR_N21kZKKlPLLPKnQmGxU18l4jeHVyoD0mlOx5UVtYjyicYWUc1M9ZlGE-FXswu7ugZW0v87Py3Vj7iQn5X7fnxy-0BhSLrs4Sjf5900/512fx384f"
+        }
+      },
+      {
+        "name": "AWP | POP AWP",
+        "desc": "A white, red, and blue retro techno-inspired pattern has been applied.",
+        "lore": "Wars are won with information",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.44": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FA957OfNcjVM48u3hr-ZgPXLP7LWnn9u5MRjjeyPp96iigfh8hdoY2CnIYCRIFM5Z1_Vrlm9wuq81MK0tZvKzydg6HR2tGGdwULHAO9QIw/512fx384f"
+        }
+      },
+      {
+        "name": "Nova | Red Quartz",
+        "desc": "It has been painted with metallic paint, using a crystallizing mask to create a pattern.",
+        "lore": "Everyone wants to make an impact",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhh3szLYyRR-N26mImRkvPLP7LWnn9u5MRjjeyP9Nmm0QS3-hdtN22hJNeddQ9qZlvZ81C5k73s0Z_quZrPnycxuiF052GdwUIMUTZ0zw/512fx384f"
+        }
+      },
+      {
+        "name": "MP5-SD | Autumn Twilly",
+        "desc": "A red and tan hydrographic pattern of assorted designs has been applied.",
+        "lore": "Last chance; train's leaving the station",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.58": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6rwOANf2-r3ZS9D5dK3hoODnuPxMK_ummJW4NFOhujT8om70Va18xA-amzzIdCVIAA5NF7Q8lG7wb26gMftv53OnHFh7nFwtyrcygv3308CfVhDYA/512fx384f"
+        }
+      },
+      {
+        "name": "CZ75-Auto | Syndicate",
+        "desc": "A custom gold and black paint job with interlocking triangles and blue highlights has been applied.",
+        "lore": "We go together",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotaDyfgZf1OD3ZS9D5dKJl5rcwsj4OrzZglRd6dd2j6fFpd2i0FbkrUE_Z2mgcIKRIwU2NV2D-lO_xL_ohJO-vpzNmiBi6XUq-z-DyH1IqVIT/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "AUG | Amber Fade",
+        "desc": "It has been painted by airbrushing transparent paints that fade together over a chrome base coat.",
+        "lore": "This isn't just a weapon, it's a conversation piece - Imogen, Arms Dealer In Training",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAZh7PXJdTh94dmilYyHnvTLP7LWnn9u5MRjjeyP9NimjFa2qhJla2GncIOWIwE8NA3Wr1G4xu7u1pHpvM6byCNhuCV35WGdwUJnqGmDOQ/512fx384f"
+        }
+      },
+      {
+        "name": "SSG 08 | Spring Twilly",
+        "desc": "A black and green hydrographic pattern of assorted designs has been applied.",
+        "lore": "Last chance; train's leaving the station",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.55": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopamie19f2-r3ZS9D5dK3hoODnuPxMK_ukXlU7ctOhuDG_ZjKhFWmrBZyamCmINOVIVNoYFCB-ge9xrjq05S678yfzXFi7nR37X-LnBzhgBwZb_sv26JMGaQNzg/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Full Stop",
+        "desc": "It has been painted using a VariCamo patterned hydrographic.",
+        "lore": "Rebuilding only comes in the wake of destruction",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3ZzxQ5d-3mY-0hfLwDLfYkWNF18lwmO7Eu9-l3AbirRE4N2vyJtOVewA_NVHR_QfokOzugcO9vZnKyHFhvHV35X3D30vgUVJOG50/512fx384f"
+        }
+      },
+      {
+        "name": "M4A1-S | Fizzy POP",
+        "desc": "A tan and red retro techno-inspired pattern has been applied.",
+        "lore": "Wars are won with information",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.57": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz2v_Nfz5H_uOlhL-fkvT8PbTGl3lu-sB1teXI8oTht1i1uRQ5fWGhLYPDewc4ZFnTrwe3le280Mfuv8vBm3pk63N253zamBzm1E0abrRxxavJpb8tAt8/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Sputnik",
+        "desc": "A space themed pattern consisting of stars and satellites has been applied.",
+        "lore": "Send and receive",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7ODYTi5S7d-zhoGIksj2P67UqWdY781lteXA54vwxlHt-BZlajyicNXEJwc9NFyGrFPtk7vm05-5tMnOy3IyuSQi5XiMmUGpwUYbUWGLOR8/512fx384f"
+        }
+      },
+      {
+        "name": "R8 Revolver | Blaze",
+        "desc": "It has been painted by airbrushing transparent paints over a chrome base coat.",
+        "lore": "This item has no Lore",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96tC3mYWYqPv9NLPFqWdQ-sJ0xLiYpYisi1bjqUs9Mj3wJdKUcgNoNFDT8le4xb_o08K1tcibn3FmuSU8pSGK5u2-Yfw/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Safety Net",
+        "desc": "An orange mesh pattern has been applied over a white base.",
+        "lore": "Your loadout; now with high visibility",
+        "date_added": "22 September 2021",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszFdC5K08-3koWfjvjmMrXWk1Rd4cJ5ntbN9J7yjRq1-UZqZ2n3IIWSc1U2ZgqC-1G2wOnqhsW7vcvPmiQxsyN05XzYlka2n1gSOQeuRM9Q/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [],
+    "Consumer Grade Skins": []
+  }
+}

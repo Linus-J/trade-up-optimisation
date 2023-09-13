@@ -1,0 +1,82 @@
+{
+  "name": "The Inferno Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_inferno_collection.png?id=033c492326696ca9c02d816b55a5e012",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [],
+    "Classified Skins": [],
+    "Restricted Skins": [],
+    "Mil-Spec Skins": [
+      {
+        "name": "Dual Berettas | Anodized Navy",
+        "desc": "It has been painted with a chrome base coat and candied in transparent navy blue anodized effect paint.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v33fzxU9eO6nYeDg8j4MqnWkyUJv5wo0-rC8NigiQTnrUs5a2qgJo7BIA82aV_U8lC-kOu8jJ-875zJ1zI97VD5Iwga/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Brass",
+        "desc": "It has brass parts.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhhwszKYzxR_-O6nYeDg8j4MqnWkyUB7ZIp3L-U89is3FHn8kM9Y2_3d47EegU2YVvQqFW6xObqhpDotcyc1zI97ccDxNq1/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P250 | Gunsmoke",
+        "desc": "It has been painted using a hydrographic of a gel pen doodle.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszPdDFS6dKJmImMn-PLP7rDkW4fupQli7CT99_3jVftqhFkYjinJNWUcQQ5Zw6B_gDtxOvtgJW86p7In2wj5Hcgjo49hQ/512fx384f"
+        }
+      },
+      {
+        "name": "M4A4 | Tornado",
+        "desc": "It has individual parts spray-painted solid colors in a tornado color scheme.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhz3Mzcfi9M7di5q4yCkP_gDLfQhGxUppB00ryT99ys3Qa1rUdrMD2mLdSdIQA-NAyG-1K5l-3r15696sjByHB9-n51bBhZfok/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Nova | Walnut",
+        "desc": "It has a figured walnut stock.",
+        "lore": "This item has no Lore",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhjxszfcDFM-ciJmo-dlsj4OrzZglRd6dd2j6eSrY_x2FLs80JqYTynLI7AIA4_NQ7X-we7l7zujZe_tc7KmHFl6Scl-z-DyNBQmnDO/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Sand Dune",
+        "desc": "It has individual parts spray-painted solid colors in a sand dune color scheme.",
+        "lore": "With Turner dead, we have a new priority: rescue Alex Kincaide - Felix Riley, Commanding Officer",
+        "date_added": "14 August 2013",
+        "can_be_souvenir": true,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhz3MzbcDNG09C_k4ifqPv1IbzU2DJV7sYl3O_Fo9z0iQ3m_EVkMWnxcIWccQE_NV2BqwK-xbznjJTq6pXXiSw0mXL0z0s/512fx384f"
+        }
+      }
+    ]
+  }
+}

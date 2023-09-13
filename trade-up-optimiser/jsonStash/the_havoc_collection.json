@@ -1,0 +1,228 @@
+{
+  "name": "The Havoc Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_havoc_collection.png?id=f0ccf814ab1ff4cf93c77d4b34a06954",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [
+      {
+        "name": "AK-47 | X-Ray",
+        "desc": "A custom painted AK-47 showing its internals with an X-Ray.",
+        "lore": "When all is revealed you may not like what you see...",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJegJa_t2vq4yCkP_gDLfQhGxUpsQg3LuQoI733APlrxI_azqgJoOSIQc9NQqD-lLrw-rqhJLtu8vJyHp9-n51JfbHn_c/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AWP | Silk Tiger",
+        "desc": "A hydrographic tiger pattern has been applied over a blue base.",
+        "lore": "A national treasure—the tiger, not the AWP",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAZt7OfBdjhQ_-O0mJWOqPv9NLPFqWdQ-sJ0xL2Sodqs0QG1_kBkYTqhLNOTIFc4Yl7T-VTowrjr0J-4tZTBmHZnvXY8pSGKq0OELoA/512fx384f"
+        }
+      },
+      {
+        "name": "MAC-10 | Hot Snakes",
+        "desc": "It has been custom painted with a bronze snakeskin pattern and a coiled snake beneath the wire form butt.",
+        "lore": "The hissing is bullets flying past you",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7umeldf1OD3fDxBvYyJh46KnPLLP7LWnn9u5MRjjeyPpY6s2VLm-hc5NWn1dYWcJlA6Yg3Z-Qe4krrtgMXqvZ6czSc37HQj7GGdwUIYD18Gtg/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Glock-18 | Franklin",
+        "desc": "It has been painted using a hydrographic of American hundred-dollar bills.",
+        "lore": "Money doesn't talk... it kills",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.4": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbaqKAxf0Ob3fDJM6cWJk4yElPzLP7LWnn9u5MRjjeyPrNSj3lDsrhJrN2ChIdWQdA89Zl-Brwe7l7zujMTu75rNnCNnuiUqsWGdwUJyxdOSDQ/512fx384f"
+        }
+      },
+      {
+        "name": "Galil AR | Phoenix Blacklight",
+        "desc": "A multicolored pattern of various Phoenix Connexion graffiti has been applied.",
+        "lore": "\"We will dance on your graves!\"",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczbYQJS5NOzmomTqOP1NKjuhn5D-Ml0teXI8oTht1i1uRQ5fW-hI4eXewRvM1rR_1m-yejv15fo6JrIzyFm6XUr4HmPzBy-gBtOO7ZxxavJgVS957U/512fx384f"
+        }
+      },
+      {
+        "name": "SG 553 | Hypnotic",
+        "desc": "It has been painted with a pearl base coat, then spray-painted black through a stencil in a graphic pattern.",
+        "lore": "You're not getting sleepy, you're passing out from blood loss",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.08": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopb3wflFf0vL3ZzhQ-NWxm7-HnvD8J4Tdl3lW7Ysk3OqW8N322wS2-EFvaj2hddfHdlBoNA7X81G7kurn0ZG77Z7MmHdjpGB8sszaPAIb/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "P90 | Tiger Pit",
+        "desc": "A brown and tan hydrographic tiger pattern has been applied over a black base.",
+        "lore": "Anywhere but here",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopuP1FAZt7OfBdjhQ_-O0ho-cmcj4OrzZglRd6dd2j6eZoN_z0FLh-kZtYWH2cIaSJFc3NFjT_1O5k7jugcLvuJ3KzXUwuCV3-z-DyPmghlDB/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Night Heist",
+        "desc": "Its base has been painted with a purple anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.",
+        "lore": "Planning is one thing, executing is another",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.65": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTjVH5c-iq5CHlvnnDKvEhHtd7fp9g-7J4bP5iUazrl1rYG6ldoCXdgQ_aQzR_lC2xLvtgJ_ptcvJmCRhunF35HnfmUS31BgecKUx0pI1kjtX/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Bengal Tiger",
+        "desc": "It has been painted using a tiger stripe hydrographic.",
+        "lore": "This item has no Lore",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszYI2gS08i_k4WZqPv9NLPFqWdQ-sJ0xOqY9Irw2QztrktoMm-ncoWWdwE2YFvYqwfqlb-9hZC-uZ-cy3Rhu3I8pSGKO0PMg-M/512fx384f"
+        }
+      },
+      {
+        "name": "Negev | Phoenix Stencil",
+        "desc": "A multicolored pattern of various Phoenix Connexion graffiti has been applied.",
+        "lore": "\"We cannot be killed!\"",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.65": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouL-iLhFf2-r3YTVN6dK_jL-flvDnDKnUklRd4cJ5ntbN9J7yjRrir0s5NmmicI7AdQJrMFmB_AK4kLjphZ6-uJnNzCA3uyQn5Srem0Tkn1gSOV96OOax/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "Nova | Rust Coat",
+        "desc": "It is still perfectly operational although the exterior surfaces have rusted.",
+        "lore": "Some people don't need to hide how dirty their deeds are",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpouLWzKjhhwszbZThH4OO6nYeDg8j4MqnWkyUBucF02rmV9tqh3lay-kNkMGv2d4CUJw42MA7S81a8we_pgcLtuJrP1zI97aancQx_/512fx384f"
+        }
+      },
+      {
+        "name": "R8 Revolver | Phoenix Marker",
+        "desc": "A multicolored pattern of various Phoenix Connexion graffiti has been applied.",
+        "lore": "\"They cannot stop us now!\"",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDB9_NS5kY6Cj8jgMrzCqWld_cBOhuDG_ZjKhFWmrBZyMGD7d4WUIw84ZAvYqVm3l7vu1pHp6ZiazHVkvnRzsC2IyRDmhEtOafsv26Ktj-aCYA/512fx384f"
+        }
+      },
+      {
+        "name": "UMP-45 | Houndstooth",
+        "desc": "A brown houndstooth hydrographic pattern has been applied.",
+        "lore": "Equip for the role you want, not the role you have",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf2-r3eTJX4tilgI-Eg__LManegWVu5Mx2gv3--Y3nj1H6rUpsMmulIIDGJ1Q-NQ3Tq1PqlOrr0Z--vJ3Nm3EyviJxsy7UmkCwhAYMMLK8DEUNhA/512fx384f"
+        }
+      },
+      {
+        "name": "MP7 | Vault Heist",
+        "desc": "Its base has been painted with a grey anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.",
+        "lore": "Planning is one thing, executing is another",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFAZt7PvNeC5W08y6lY6YqO7xP7fegVRd4cJ5ntbN9J7yjRrhr0dtZWnzJYSRdlc8YluDrlPryLi61MTvuJ3NzyBmvSgqtnyPnxC2n1gSOYVSHZ9Q/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Dual Berettas | Heist",
+        "desc": "Its base has been painted with a beige anodized map pattern. It looks like someone has drawn on top of the map since it was first applied.",
+        "lore": "Planning is one thing, executing is another",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpos7asPwJf0v73eThL_8iJhIyKmeTLNKnUk2Vu5Mx2gv3--Y3nj1H6qkc_ZDigcNeQdVRoMg2BqVfsxbvtgJG8tM-fnXZrsiF37C2IyxDigwYMMLJm5QP2zg/512fx384f"
+        }
+      },
+      {
+        "name": "Sawed-Off | Clay Ambush",
+        "desc": "A brown and tan hydrographic tiger pattern has been applied.",
+        "lore": "Normally solo predators, they'll make an exception for you",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR9-NWxkZKYqOP1PYTdn2xZ_Pp9i_vG8MKjjQHmrhA-MW7xcNOTIFI-ZlDW-1W_lLi608W_6ZrJzXJqsilw4yvagVXp1osBprYy/512fx384f"
+        }
+      },
+      {
+        "name": "M249 | Predator",
+        "desc": "It has been spray-painted in a zebra stripe pattern.",
+        "lore": "This item has no Lore",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.06-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-jxcjhzw8zSdD9Q7d-3mb-HnvD8J4Tdl3lW7Yt12u2ToI2g0FLm_EU4ZTj2J47AI1Q2ZlyG-we6kL_qgpS46p7Om3Q2pGB8skhacMBR/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Phoenix Chalk",
+        "desc": "A multicolored pattern of various Phoenix Connexion graffiti has been applied.",
+        "lore": "\"You are stupid to think you will win!\"",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszYeTJH4tWuq5SKkOTLP7Ldl2hu5Mx2gv3--Y3nj1H6qhY9Y2uhJ4WSJwc5MFzV_lm8l-_uh5S8uJqazndl6Clx7X7bmReziAYMMLK-41sItg/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Death Rattle",
+        "desc": "It has been painted with a snakeskin patterned hydrographic.",
+        "lore": "I know you don't believe in the cause...and when I expose you, Valeria will have your head - The Shield and The Serpent Part 1",
+        "date_added": "3 December 2020",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.08-0.5": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3fzhQ49i_lb-HnvD8J4Tdl3lW7YsniOzHo9msjAHg-0A9Zmr1JY7HdVRoZg7V_lW2levsgpW1uZzIzSRqpGB8spmba0Iz/512fx384f"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "name": "The Rising Sun Collection",
+  "image_url": "https://csgostash.com/img/collections/256x198/the_rising_sun_collection.png?id=69c91b1a4814f67e717cc9fe237348cd",
+  "content": {
+    "Rare Special Items": [],
+    "Covert Skins": [
+      {
+        "name": "AUG | Akihabara Accept",
+        "desc": "It has been decorated with a heat transfer vinyl of an anime magazine cover.",
+        "lore": "Yatta!",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot6-iFAR17PLGeDBH092jk7-HnvD8J4Tdl3lW7Yt32r2YpdugiwLg_ktrYjymIoHHclQ6ZlrV-Qe7yL3tg5e4v8ifmnZqpGB8shEE59-s/512fx384f"
+        }
+      }
+    ],
+    "Classified Skins": [
+      {
+        "name": "AK-47 | Hydroponic",
+        "desc": "It has been painted with a bamboo motif using metallic paints.",
+        "lore": "Notice how Gunsmith Yukako used the wood of the AK-47 to accentuate her verdant theme... make no mistake: Hydroponic is as beautiful and deadly as nature itself - Imogen, Arms Dealer In Training",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhh3szKcDBA49OJnpWFkPvxDLfYkWNF18lwmO7Eu9Wti1Dk-UA5aj3xJoaSI1I5Z12C_FG-k-znhJW5vs6bmndjuiki4H7D30vgYDi_Mc0/512fx384f"
+        }
+      }
+    ],
+    "Restricted Skins": [
+      {
+        "name": "Desert Eagle | Sunset Storm 弐",
+        "desc": "It has been painted with a hydrographic of a stormy sea over a red metallic base coat.",
+        "lore": "You think it's the same, but look again... subtlety makes all the difference",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.75": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqOT8PLHeqWdY781lteXA54vwxgOwrUc6Nmr7ItLEIQc2MA3Sq1ntwrvqhcLqu8mfm3tivCV2sCyIlxapwUYbFeY_M6c/512fx384f"
+        }
+      },
+      {
+        "name": "M4A4 | Daybreak",
+        "desc": "It has been painted with a sunrise in metallic paints.",
+        "lore": "The sun rises on the just and unjust alike",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhh3szDeDBN4tOJh5WFhf7nNoTdn2xZ_Pp9i_vG8MLz3Ffg-UBvZWrxctPBdQY-ZQmC_le4x7-61MXp7c_MynBguXN2sSvbgVXp1tleQfgM/512fx384f"
+        }
+      },
+      {
+        "name": "Five-SeveN | Neon Kimono",
+        "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "lore": "I know I'm asking a lot of you... Turner was like your son - The Paladin and The Teacher Part 1",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposLOzLhRlxfbGTjVb09e_mY-FmMjwOrrcmWVV-_p9g-7J4bP5iUazrl0_a2vzIobEcQdsZg3UqFC5kuns0MS7usudwXUwuiki5niMnEDl0BxOcKUx0scpFRTW/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Sunset Storm 壱",
+        "desc": "It has been painted with a hydrographic of a stormy sea over a red metallic base coat.",
+        "lore": "You think it's the same, but look again... subtlety makes all the difference",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.75": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqPX4PLTVqWdY781lteXA54vwxgWx8kE9ZDzyLdDBJwY_ZQ3Vq1a-ye3t1J-_7pnNySdj6SAh4yvYlhOpwUYb1GorQ-8/512fx384f"
+        }
+      }
+    ],
+    "Mil-Spec Skins": [
+      {
+        "name": "Galil AR | Aqua Terrace",
+        "desc": "It has been painted with a geometric motif in metallic paints.",
+        "lore": "Serenity now...",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.7": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposbupIgthwczJfAJF6dO7kZSZnvTLIK_Uhnhu5Mx2gv3--Y3nj1H6rRdqZz3wdoSTIA85NQnTqVG9kLzvhZ_ptZydyiRmuXMr4CrVmUbkgQYMMLJcIdlt2g/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Terrace",
+        "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "lore": "You're too trusting Valeria... it will get you killed - Franz Kriegeld, Phoenix Tactician",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-1.0": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszPdDJP6ciknYO0hOPxI6juj25d5MpmteXI8oTht1i1uRQ5fW2nIYbGdAE2Mw7ZrwTsyLjvg5XtuJ7LmCNq7iVzsCzbl0C_hxsaabFxxavJlicAoJY/512fx384f"
+        }
+      },
+      {
+        "name": "MAG-7 | Counter Terrace",
+        "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "lore": "Hey Sabri, you should take this one... it's loud like you - Carmen Cocinero, Extraction Expert",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.65": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou7uifDhoyszPdDJP6ciknYO0hOPxI6jukXlU7ctOhuDG_ZjKhFWmrBZyZm3xJ4KdJwVrNw6F_FLvkLvogMS8u52am3Mw6yd25Hbeyh20hB4fOPsv26I7xCPfeQ/512fx384f"
+        }
+      }
+    ],
+    "Industrial Grade Skins": [
+      {
+        "name": "P250 | Crimson Kimono",
+        "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "lore": "Turner, all men can be broken... it's just a matter of finding the right pressure point - The Traitor and The Truthseeker Part 2",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhoyszDeDBN4tOJkImKmvj6N6juhG5V18l4jeHVyoD0mlOx5UplNjqhIoDDdA5qZwqCq1XrwOm91pW878nOyyZmuiQjsHfelxawgEtSLrs4vyyHLos/512fx384f"
+        }
+      },
+      {
+        "name": "Desert Eagle | Midnight Storm",
+        "desc": "It has been painted with a hydrographic of a stormy sea over a blue metallic base coat.",
+        "lore": "I don't hate you Sebastien... I pity you - Chase Turner, Coalition Defector",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.75": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PLFTi5H7c-im5KGqPv9NLPFqWdQ-sJ0xOjE896kjVKxqBc9YG7xJ4HBcAJqNAqF-Qe6wee5gZS1uZmdmCY37nQ8pSGKkzvEHHU/512fx384f"
+        }
+      }
+    ],
+    "Consumer Grade Skins": [
+      {
+        "name": "Sawed-Off | Bamboo Shadow",
+        "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
+        "lore": "Kotaro lost his son to this gun... and one day he'll use it to stop the man responsible",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopbuyLgNv1fX3eSR97t27lo-EqP3hPbzdk1RT5MRygdbN_Iv9nGu4qgE7Nnf7d4WRdwA4aQ7ZrlfskOfphMC7vsudz3UwviAntHeIyxfk104aOuE8m7XAHg9cFoy7/512fx384f"
+        }
+      },
+      {
+        "name": "P250 | Mint Kimono",
+        "desc": "It has been spray-painted with a geometric motif.",
+        "lore": "Come Booth, let me show you what I've been working on - Yukako, Gunsmith",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopujwezhzw8zDeDBN4tOJkImKmvj6N6jummJW4NFOhujT8om7jgy2-RdqZTqnd4CRJw42Z1iC-Vfvkuy7hZ68up2dyXY2v3Vx4y6Imwv330_ucmAZ3w/512fx384f"
+        }
+      },
+      {
+        "name": "PP-Bizon | Bamboo Print",
+        "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
+        "lore": "Insert shoot pun here",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLO_JAlf2-r3czxP7tO5q4qemfD4NoTYmGBu5Mx2gv3--Y3nj1H6-xVlNjz1JYfAe1Q4Z1-F81G3w-26jMDvvMmYwXtnuSAq7X6MyhLm1AYMMLJI1HRjgA/512fx384f"
+        }
+      },
+      {
+        "name": "G3SG1 | Orange Kimono",
+        "desc": "It has been painted with a hydrographic in a geometric motif.",
+        "lore": "Tradition is a powerful thing",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.8": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposem2LFZf2-r3ejRP49K5q4SClvr7Pb_CqWRD6ct2j9bN_Iv9nGu4qgE7NnehcNfHd1I6N1HSrFS5wu260Za5us-bnHBkvCck5CzemBLlhEtPauVum7XAHphG6K35/512fx384f"
+        }
+      },
+      {
+        "name": "Tec-9 | Bamboo Forest",
+        "desc": "It has been painted with a hydrographic of brush-painted bamboo.",
+        "lore": "I still think it should have a panda - Booth, Arms Dealer",
+        "date_added": "26 May 2015",
+        "can_be_souvenir": false,
+        "can_be_stattrak": false,
+        "wears": {
+          "0.0-0.6": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoor-mcjhoyszKcDBA49OJnpWFkPvxDLfYkWNF18lwmO7Eu9-k2gLs_0ZsNTuhIdSQIQQ8Y1mF_ATvkLq90JG9vpman3pm7CN35CvD30vg7kB-r_U/512fx384f"
+        }
+      }
+    ]
+  }
+}
